@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for element in *
+do
+	if [ $element != "testeLogArit.class" ] && [ $element != "auto" ] && [ $element != "resultado.txt" ]
+	then
+		../../bin/main $element -i >> resultado.txt
+	fi
+done
+

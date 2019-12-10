@@ -1,0 +1,37 @@
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> b2
+pc -> 6 code -> 1b
+pc -> 7 code -> b6
+10
+pc -> a code -> 10
+pc -> c code -> 3d
+pc -> d code -> b2
+pc -> 10 code -> 1c
+pc -> 11 code -> b6
+15
+pc -> 14 code -> 1b
+pc -> 15 code -> 1c
+pc -> 16 code -> 60
+pc -> 17 code -> 3e
+pc -> 18 code -> b2
+pc -> 1b code -> 1d
+pc -> 1c code -> b6
+25
+pc -> 1f code -> 1c
+pc -> 20 code -> 1b
+pc -> 21 code -> 64
+pc -> 22 code -> 5
+pc -> 23 code -> 60
+pc -> 24 code -> 36
+pc -> 26 code -> b2
+pc -> 29 code -> 15
+pc -> 2b code -> b6
+7
+pc -> 2e code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+foo
+pc -> 8 code -> b1
+pc -> 31 code -> b1

@@ -1,0 +1,17 @@
+#!/bin/bash
+
+f(){
+	for element in *
+	do
+		echo "" >> resultado.txt
+		echo "->" $element >> resultado.txt
+		echo "" >> resultado.txt
+
+		../../bin/main $element -i >> resultado.txt
+		echo "---------------------------------------------------------" >> resultado.txt
+		/usr/bin/java $element >> resultado.txt
+
+	done
+}
+
+f

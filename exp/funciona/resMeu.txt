@@ -1,0 +1,5982 @@
+pc -> 0 code -> 8
+pc -> 1 code -> bc
+pc -> 3 code -> 59
+pc -> 4 code -> 3
+pc -> 5 code -> 4
+pc -> 6 code -> 4f
+pc -> 7 code -> 59
+pc -> 8 code -> 4
+pc -> 9 code -> 5
+pc -> a code -> 4f
+pc -> b code -> 59
+pc -> c code -> 5
+pc -> d code -> 6
+pc -> e code -> 4f
+pc -> f code -> 59
+pc -> 10 code -> 6
+pc -> 11 code -> 7
+pc -> 12 code -> 4f
+pc -> 13 code -> 59
+pc -> 14 code -> 7
+pc -> 15 code -> 8
+pc -> 16 code -> 4f
+pc -> 17 code -> 4c
+pc -> 18 code -> 6
+pc -> 19 code -> bc
+pc -> 1b code -> 4d
+pc -> 1c code -> 2b
+pc -> 1d code -> 5
+pc -> 1e code -> 2e
+pc -> 1f code -> 3e
+pc -> 20 code -> b2
+pc -> 23 code -> 12
+pc -> 25 code -> b6
+
+INTEIRO
+pc -> 28 code -> b2
+pc -> 2b code -> 2b
+pc -> 2c code -> 3
+pc -> 2d code -> 2e
+pc -> 2e code -> b6
+1
+pc -> 31 code -> b2
+pc -> 34 code -> 2b
+pc -> 35 code -> 4
+pc -> 36 code -> 2e
+pc -> 37 code -> b6
+2
+pc -> 3a code -> b2
+pc -> 3d code -> 2b
+pc -> 3e code -> 6
+pc -> 3f code -> 2e
+pc -> 40 code -> b6
+4
+pc -> 43 code -> b2
+pc -> 46 code -> 2b
+pc -> 47 code -> 5
+pc -> 48 code -> 2e
+pc -> 49 code -> b6
+3
+pc -> 4c code -> b2
+pc -> 4f code -> 2b
+pc -> 50 code -> 7
+pc -> 51 code -> 2e
+pc -> 52 code -> b6
+5
+pc -> 55 code -> b2
+pc -> 58 code -> 1d
+pc -> 59 code -> b6
+3
+pc -> 5c code -> 2c
+pc -> 5d code -> 3
+pc -> 5e code -> 10
+pc -> 60 code -> 4f
+pc -> 61 code -> b2
+pc -> 64 code -> 2c
+pc -> 65 code -> 3
+pc -> 66 code -> 2e
+pc -> 67 code -> b6
+6
+pc -> 6a code -> 2c
+pc -> 6b code -> 4
+pc -> 6c code -> 10
+pc -> 6e code -> 4f
+pc -> 6f code -> b2
+pc -> 72 code -> 2c
+pc -> 73 code -> 4
+pc -> 74 code -> 2e
+pc -> 75 code -> b6
+7
+pc -> 78 code -> 2c
+pc -> 79 code -> 5
+pc -> 7a code -> 10
+pc -> 7c code -> 4f
+pc -> 7d code -> b2
+pc -> 80 code -> 2c
+pc -> 81 code -> 5
+pc -> 82 code -> 2e
+pc -> 83 code -> b6
+8
+pc -> 86 code -> 8
+pc -> 87 code -> bc
+pc -> 89 code -> 59
+pc -> 8a code -> 3
+pc -> 8b code -> a
+pc -> 8c code -> 50
+pc -> 8d code -> 59
+pc -> 8e code -> 4
+pc -> 8f code -> 14
+pc -> 92 code -> 50
+pc -> 93 code -> 59
+pc -> 94 code -> 5
+pc -> 95 code -> 14
+pc -> 98 code -> 50
+pc -> 99 code -> 59
+pc -> 9a code -> 6
+pc -> 9b code -> 14
+pc -> 9e code -> 50
+pc -> 9f code -> 59
+pc -> a0 code -> 7
+pc -> a1 code -> 14
+pc -> a4 code -> 50
+pc -> a5 code -> 3a
+pc -> a7 code -> 6
+pc -> a8 code -> bc
+pc -> aa code -> 3a
+pc -> ac code -> 19
+pc -> ae code -> 5
+pc -> af code -> 2f
+pc -> b0 code -> 37
+pc -> b2 code -> b2
+pc -> b5 code -> 12
+pc -> b7 code -> b6
+
+LONG
+pc -> ba code -> b2
+pc -> bd code -> 19
+pc -> bf code -> 3
+pc -> c0 code -> 2f
+pc -> c1 code -> b6
+1
+pc -> c4 code -> b2
+pc -> c7 code -> 19
+pc -> c9 code -> 4
+pc -> ca code -> 2f
+pc -> cb code -> b6
+2
+pc -> ce code -> b2
+pc -> d1 code -> 19
+pc -> d3 code -> 6
+pc -> d4 code -> 2f
+pc -> d5 code -> b6
+4
+pc -> d8 code -> b2
+pc -> db code -> 19
+pc -> dd code -> 5
+pc -> de code -> 2f
+pc -> df code -> b6
+3
+pc -> e2 code -> b2
+pc -> e5 code -> 19
+pc -> e7 code -> 7
+pc -> e8 code -> 2f
+pc -> e9 code -> b6
+5
+pc -> ec code -> b2
+pc -> ef code -> 16
+pc -> f1 code -> b6
+3
+pc -> f4 code -> 19
+pc -> f6 code -> 3
+pc -> f7 code -> 14
+pc -> fa code -> 50
+pc -> fb code -> b2
+pc -> fe code -> 19
+pc -> 100 code -> 3
+pc -> 101 code -> 2f
+pc -> 102 code -> b6
+6
+pc -> 105 code -> 19
+pc -> 107 code -> 4
+pc -> 108 code -> 14
+pc -> 10b code -> 50
+pc -> 10c code -> b2
+pc -> 10f code -> 19
+pc -> 111 code -> 4
+pc -> 112 code -> 2f
+pc -> 113 code -> b6
+7
+pc -> 116 code -> 19
+pc -> 118 code -> 5
+pc -> 119 code -> 14
+pc -> 11c code -> 50
+pc -> 11d code -> b2
+pc -> 120 code -> 19
+pc -> 122 code -> 5
+pc -> 123 code -> 2f
+pc -> 124 code -> b6
+8
+pc -> 127 code -> 8
+pc -> 128 code -> bc
+pc -> 12a code -> 59
+pc -> 12b code -> 3
+pc -> 12c code -> c
+pc -> 12d code -> 51
+pc -> 12e code -> 59
+pc -> 12f code -> 4
+pc -> 130 code -> d
+pc -> 131 code -> 51
+pc -> 132 code -> 59
+pc -> 133 code -> 5
+pc -> 134 code -> 12
+pc -> 136 code -> 51
+pc -> 137 code -> 59
+pc -> 138 code -> 6
+pc -> 139 code -> 12
+pc -> 13b code -> 51
+pc -> 13c code -> 59
+pc -> 13d code -> 7
+pc -> 13e code -> 12
+pc -> 140 code -> 51
+pc -> 141 code -> 3a
+pc -> 143 code -> 6
+pc -> 144 code -> bc
+pc -> 146 code -> 3a
+pc -> 148 code -> 19
+pc -> 14a code -> 5
+pc -> 14b code -> 30
+pc -> 14c code -> 38
+pc -> 14e code -> b2
+pc -> 151 code -> 12
+pc -> 153 code -> b6
+
+FLOAT
+pc -> 156 code -> b2
+pc -> 159 code -> 19
+pc -> 15b code -> 3
+pc -> 15c code -> 30
+pc -> 15d code -> b6
+1.000000
+pc -> 160 code -> b2
+pc -> 163 code -> 19
+pc -> 165 code -> 4
+pc -> 166 code -> 30
+pc -> 167 code -> b6
+2.000000
+pc -> 16a code -> b2
+pc -> 16d code -> 19
+pc -> 16f code -> 6
+pc -> 170 code -> 30
+pc -> 171 code -> b6
+4.000000
+pc -> 174 code -> b2
+pc -> 177 code -> 19
+pc -> 179 code -> 5
+pc -> 17a code -> 30
+pc -> 17b code -> b6
+3.000000
+pc -> 17e code -> b2
+pc -> 181 code -> 19
+pc -> 183 code -> 7
+pc -> 184 code -> 30
+pc -> 185 code -> b6
+5.000000
+pc -> 188 code -> b2
+pc -> 18b code -> 17
+pc -> 18d code -> b6
+3.000000
+pc -> 190 code -> 19
+pc -> 192 code -> 3
+pc -> 193 code -> 12
+pc -> 195 code -> 51
+pc -> 196 code -> b2
+pc -> 199 code -> 19
+pc -> 19b code -> 3
+pc -> 19c code -> 30
+pc -> 19d code -> b6
+6.000000
+pc -> 1a0 code -> 19
+pc -> 1a2 code -> 4
+pc -> 1a3 code -> 12
+pc -> 1a5 code -> 51
+pc -> 1a6 code -> b2
+pc -> 1a9 code -> 19
+pc -> 1ab code -> 4
+pc -> 1ac code -> 30
+pc -> 1ad code -> b6
+7.000000
+pc -> 1b0 code -> 19
+pc -> 1b2 code -> 5
+pc -> 1b3 code -> 12
+pc -> 1b5 code -> 51
+pc -> 1b6 code -> b2
+pc -> 1b9 code -> 19
+pc -> 1bb code -> 5
+pc -> 1bc code -> 30
+pc -> 1bd code -> b6
+8.000000
+pc -> 1c0 code -> 8
+pc -> 1c1 code -> bc
+pc -> 1c3 code -> 59
+pc -> 1c4 code -> 3
+pc -> 1c5 code -> f
+pc -> 1c6 code -> 52
+pc -> 1c7 code -> 59
+pc -> 1c8 code -> 4
+pc -> 1c9 code -> 14
+pc -> 1cc code -> 52
+pc -> 1cd code -> 59
+pc -> 1ce code -> 5
+pc -> 1cf code -> 14
+pc -> 1d2 code -> 52
+pc -> 1d3 code -> 59
+pc -> 1d4 code -> 6
+pc -> 1d5 code -> 14
+pc -> 1d8 code -> 52
+pc -> 1d9 code -> 59
+pc -> 1da code -> 7
+pc -> 1db code -> 14
+pc -> 1de code -> 52
+pc -> 1df code -> 3a
+pc -> 1e1 code -> 6
+pc -> 1e2 code -> bc
+pc -> 1e4 code -> 3a
+pc -> 1e6 code -> 19
+pc -> 1e8 code -> 5
+pc -> 1e9 code -> 31
+pc -> 1ea code -> 39
+pc -> 1ec code -> b2
+pc -> 1ef code -> 12
+pc -> 1f1 code -> b6
+
+DOUBLE
+pc -> 1f4 code -> b2
+pc -> 1f7 code -> 19
+pc -> 1f9 code -> 3
+pc -> 1fa code -> 31
+pc -> 1fb code -> b6
+1.000000
+pc -> 1fe code -> b2
+pc -> 201 code -> 19
+pc -> 203 code -> 4
+pc -> 204 code -> 31
+pc -> 205 code -> b6
+2.000000
+pc -> 208 code -> b2
+pc -> 20b code -> 19
+pc -> 20d code -> 6
+pc -> 20e code -> 31
+pc -> 20f code -> b6
+4.000000
+pc -> 212 code -> b2
+pc -> 215 code -> 19
+pc -> 217 code -> 5
+pc -> 218 code -> 31
+pc -> 219 code -> b6
+3.000000
+pc -> 21c code -> b2
+pc -> 21f code -> 19
+pc -> 221 code -> 7
+pc -> 222 code -> 31
+pc -> 223 code -> b6
+5.000000
+pc -> 226 code -> b2
+pc -> 229 code -> 18
+pc -> 22b code -> b6
+3.000000
+pc -> 22e code -> 19
+pc -> 230 code -> 3
+pc -> 231 code -> 14
+pc -> 234 code -> 52
+pc -> 235 code -> b2
+pc -> 238 code -> 19
+pc -> 23a code -> 3
+pc -> 23b code -> 31
+pc -> 23c code -> b6
+6.000000
+pc -> 23f code -> 19
+pc -> 241 code -> 4
+pc -> 242 code -> 14
+pc -> 245 code -> 52
+pc -> 246 code -> b2
+pc -> 249 code -> 19
+pc -> 24b code -> 4
+pc -> 24c code -> 31
+pc -> 24d code -> b6
+7.000000
+pc -> 250 code -> 19
+pc -> 252 code -> 5
+pc -> 253 code -> 14
+pc -> 256 code -> 52
+pc -> 257 code -> b2
+pc -> 25a code -> 19
+pc -> 25c code -> 5
+pc -> 25d code -> 31
+pc -> 25e code -> b6
+8.000000
+pc -> 261 code -> 8
+pc -> 262 code -> bc
+pc -> 264 code -> 59
+pc -> 265 code -> 3
+pc -> 266 code -> 4
+pc -> 267 code -> 56
+pc -> 268 code -> 59
+pc -> 269 code -> 4
+pc -> 26a code -> 5
+pc -> 26b code -> 56
+pc -> 26c code -> 59
+pc -> 26d code -> 5
+pc -> 26e code -> 6
+pc -> 26f code -> 56
+pc -> 270 code -> 59
+pc -> 271 code -> 6
+pc -> 272 code -> 7
+pc -> 273 code -> 56
+pc -> 274 code -> 59
+pc -> 275 code -> 7
+pc -> 276 code -> 8
+pc -> 277 code -> 56
+pc -> 278 code -> 3a
+pc -> 27a code -> 6
+pc -> 27b code -> bc
+pc -> 27d code -> 3a
+pc -> 27f code -> 19
+pc -> 281 code -> 5
+pc -> 282 code -> 35
+pc -> 283 code -> 36
+pc -> 285 code -> b2
+pc -> 288 code -> 12
+pc -> 28a code -> b6
+
+SHORT
+pc -> 28d code -> b2
+pc -> 290 code -> 19
+pc -> 292 code -> 3
+pc -> 293 code -> 35
+pc -> 294 code -> b6
+1
+pc -> 297 code -> b2
+pc -> 29a code -> 19
+pc -> 29c code -> 4
+pc -> 29d code -> 35
+pc -> 29e code -> b6
+2
+pc -> 2a1 code -> b2
+pc -> 2a4 code -> 19
+pc -> 2a6 code -> 6
+pc -> 2a7 code -> 35
+pc -> 2a8 code -> b6
+4
+pc -> 2ab code -> b2
+pc -> 2ae code -> 19
+pc -> 2b0 code -> 5
+pc -> 2b1 code -> 35
+pc -> 2b2 code -> b6
+3
+pc -> 2b5 code -> b2
+pc -> 2b8 code -> 19
+pc -> 2ba code -> 7
+pc -> 2bb code -> 35
+pc -> 2bc code -> b6
+5
+pc -> 2bf code -> b2
+pc -> 2c2 code -> 15
+pc -> 2c4 code -> b6
+3
+pc -> 2c7 code -> 19
+pc -> 2c9 code -> 3
+pc -> 2ca code -> 10
+pc -> 2cc code -> 56
+pc -> 2cd code -> b2
+pc -> 2d0 code -> 19
+pc -> 2d2 code -> 3
+pc -> 2d3 code -> 35
+pc -> 2d4 code -> b6
+6
+pc -> 2d7 code -> 19
+pc -> 2d9 code -> 4
+pc -> 2da code -> 10
+pc -> 2dc code -> 56
+pc -> 2dd code -> b2
+pc -> 2e0 code -> 19
+pc -> 2e2 code -> 4
+pc -> 2e3 code -> 35
+pc -> 2e4 code -> b6
+7
+pc -> 2e7 code -> 19
+pc -> 2e9 code -> 5
+pc -> 2ea code -> 10
+pc -> 2ec code -> 56
+pc -> 2ed code -> b2
+pc -> 2f0 code -> 19
+pc -> 2f2 code -> 5
+pc -> 2f3 code -> 35
+pc -> 2f4 code -> b6
+8
+pc -> 2f7 code -> b1
+
+pc -> 0 code -> b1
+
+pc -> 0 code -> b1
+
+missing cafe babe
+
+pc -> 0 code -> 8
+pc -> 1 code -> 3c
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a0
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+5
+pc -> e code -> a7
+pc -> 19 code -> 1b
+pc -> 1a code -> 10
+pc -> 1c code -> a2
+pc -> 1f code -> b2
+pc -> 22 code -> 12
+pc -> 24 code -> b6
+menor que 10
+pc -> 27 code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 48
+pc -> 4 code -> 14
+pc -> 7 code -> 4a
+pc -> 8 code -> b2
+pc -> b code -> 27
+pc -> c code -> 29
+pc -> d code -> 63
+pc -> e code -> b6
+233.110000
+pc -> 11 code -> b2
+pc -> 14 code -> 27
+pc -> 15 code -> 29
+pc -> 16 code -> 67
+pc -> 17 code -> b6
+-36.630000
+pc -> 1a code -> b2
+pc -> 1d code -> 27
+pc -> 1e code -> 29
+pc -> 1f code -> 6b
+pc -> 20 code -> b6
+13249.628800
+pc -> 23 code -> b2
+pc -> 26 code -> 27
+pc -> 27 code -> 29
+pc -> 28 code -> 6f
+pc -> 29 code -> b6
+0.728405
+pc -> 2c code -> b2
+pc -> 2f code -> 27
+pc -> 30 code -> 77
+pc -> 31 code -> b6
+-98.240000
+pc -> 34 code -> b2
+pc -> 37 code -> 29
+pc -> 38 code -> 27
+pc -> 39 code -> 73
+pc -> 3a code -> b6
+36.630000
+pc -> 3d code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 48
+pc -> 4 code -> b2
+pc -> 7 code -> 27
+pc -> 8 code -> 90
+pc -> 9 code -> b6
+100.599998
+pc -> c code -> b2
+pc -> f code -> 27
+pc -> 10 code -> 8e
+pc -> 11 code -> b6
+100
+pc -> 14 code -> b2
+pc -> 17 code -> 27
+pc -> 18 code -> 8f
+pc -> 19 code -> b6
+100
+pc -> 1c code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 48
+pc -> 4 code -> b2
+pc -> 7 code -> 27
+pc -> 8 code -> b6
+5.400000
+pc -> b code -> 14
+pc -> e code -> 4a
+pc -> f code -> b2
+pc -> 12 code -> 29
+pc -> 13 code -> b6
+3.500000
+pc -> 16 code -> 27
+pc -> 17 code -> 29
+pc -> 18 code -> 63
+pc -> 19 code -> 39
+pc -> 1b code -> b2
+pc -> 1e code -> 18
+pc -> 20 code -> b6
+8.900000
+pc -> 23 code -> 27
+pc -> 24 code -> 29
+pc -> 25 code -> 67
+pc -> 26 code -> 39
+pc -> 28 code -> b2
+pc -> 2b code -> 18
+pc -> 2d code -> b6
+1.900000
+pc -> 30 code -> 27
+pc -> 31 code -> 29
+pc -> 32 code -> 6f
+pc -> 33 code -> 39
+pc -> 35 code -> b2
+pc -> 38 code -> 18
+pc -> 3a code -> b6
+1.542857
+pc -> 3d code -> 27
+pc -> 3e code -> 29
+pc -> 3f code -> 6b
+pc -> 40 code -> 39
+pc -> 42 code -> b2
+pc -> 45 code -> 18
+pc -> 47 code -> b6
+18.900000
+pc -> 4a code -> 27
+pc -> 4b code -> 29
+pc -> 4c code -> 73
+pc -> 4d code -> 39
+pc -> 4f code -> b2
+pc -> 52 code -> 18
+pc -> 54 code -> b6
+1.900000
+pc -> 57 code -> 4
+pc -> 58 code -> 36
+pc -> 5a code -> 15
+pc -> 5c code -> 87
+pc -> 5d code -> 39
+pc -> 5f code -> b2
+pc -> 62 code -> 18
+pc -> 64 code -> b6
+1.000000
+pc -> 67 code -> a
+pc -> 68 code -> 37
+pc -> 6a code -> 16
+pc -> 6c code -> 8a
+pc -> 6d code -> 39
+pc -> 6f code -> b2
+pc -> 72 code -> 18
+pc -> 74 code -> b6
+1.000000
+pc -> 77 code -> c
+pc -> 78 code -> 38
+pc -> 7a code -> 17
+pc -> 7c code -> 8d
+pc -> 7d code -> 39
+pc -> 7f code -> b2
+pc -> 82 code -> 18
+pc -> 84 code -> b6
+1.000000
+pc -> 87 code -> 8
+pc -> 88 code -> 36
+pc -> 8a code -> 15
+pc -> 8c code -> 87
+pc -> 8d code -> 39
+pc -> 8f code -> b2
+pc -> 92 code -> 18
+pc -> 94 code -> b6
+5.000000
+pc -> 97 code -> b2
+pc -> 9a code -> 27
+pc -> 9b code -> b8
+pc -> 0 code -> 26
+5.4
+pc -> 1 code -> af
+pc -> 9e code -> b6
+5.400000
+pc -> a1 code -> b1
+
+pc -> 0 code -> f
+pc -> 1 code -> 48
+pc -> 2 code -> 14
+pc -> 5 code -> 4a
+pc -> 6 code -> 29
+pc -> 7 code -> 27
+pc -> 8 code -> 97
+pc -> 9 code -> 9e
+pc -> c code -> b2
+pc -> f code -> 29
+pc -> 10 code -> b6
+2.000000
+pc -> 13 code -> 27
+pc -> 14 code -> 29
+pc -> 15 code -> 98
+pc -> 16 code -> 9c
+pc -> 19 code -> b2
+pc -> 1c code -> 27
+pc -> 1d code -> b6
+1.000000
+pc -> 20 code -> 27
+pc -> 21 code -> 29
+pc -> 22 code -> 97
+pc -> 23 code -> 99
+pc -> 26 code -> b2
+pc -> 29 code -> 3
+pc -> 2a code -> b6
+0
+pc -> 2d code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> b2
+pc -> 6 code -> 12
+pc -> 8 code -> b6
+Serie De Fibonacci: 
+pc -> b code -> 9
+pc -> c code -> 37
+pc -> e code -> a
+pc -> f code -> 37
+pc -> 11 code -> 4
+pc -> 12 code -> 36
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+1
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+1
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+2
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+3
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+5
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+8
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+13
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+21
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+34
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+55
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+89
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+144
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 35 code -> b1
+
+pc -> 0 code -> 12
+pc -> 2 code -> 44
+pc -> 3 code -> 12
+pc -> 5 code -> 45
+pc -> 6 code -> b2
+pc -> 9 code -> 23
+pc -> a code -> 24
+pc -> b code -> 62
+pc -> c code -> b6
+120.699997
+pc -> f code -> b2
+pc -> 12 code -> 23
+pc -> 13 code -> 24
+pc -> 14 code -> 66
+pc -> 15 code -> b6
+80.100006
+pc -> 18 code -> b2
+pc -> 1b code -> 23
+pc -> 1c code -> 24
+pc -> 1d code -> 6a
+pc -> 1e code -> b6
+2038.119995
+pc -> 21 code -> b2
+pc -> 24 code -> 23
+pc -> 25 code -> 24
+pc -> 26 code -> 6e
+pc -> 27 code -> b6
+4.945813
+pc -> 2a code -> b2
+pc -> 2d code -> 23
+pc -> 2e code -> 76
+pc -> 2f code -> b6
+-100.400002
+pc -> 32 code -> b2
+pc -> 35 code -> 23
+pc -> 36 code -> 24
+pc -> 37 code -> 72
+pc -> 38 code -> b6
+19.200005
+pc -> 3b code -> b1
+
+pc -> 0 code -> 12
+pc -> 2 code -> 44
+pc -> 3 code -> 14
+pc -> 6 code -> 49
+pc -> 7 code -> b2
+pc -> a code -> 28
+pc -> b code -> b6
+42.420000
+pc -> e code -> b2
+pc -> 11 code -> 23
+pc -> 12 code -> 8d
+pc -> 13 code -> b6
+100.599998
+pc -> 16 code -> b2
+pc -> 19 code -> 23
+pc -> 1a code -> 8b
+pc -> 1b code -> b6
+100
+pc -> 1e code -> b2
+pc -> 21 code -> 23
+pc -> 22 code -> 8c
+pc -> 23 code -> b6
+100
+pc -> 26 code -> b1
+
+pc -> 0 code -> 12
+pc -> 2 code -> 44
+pc -> 3 code -> b2
+pc -> 6 code -> 23
+pc -> 7 code -> b6
+3.140000
+pc -> a code -> 12
+pc -> c code -> 45
+pc -> d code -> b2
+pc -> 10 code -> 24
+pc -> 11 code -> b6
+6.280000
+pc -> 14 code -> 23
+pc -> 15 code -> 24
+pc -> 16 code -> 62
+pc -> 17 code -> 46
+pc -> 18 code -> b2
+pc -> 1b code -> 25
+pc -> 1c code -> b6
+9.420000
+pc -> 1f code -> 23
+pc -> 20 code -> 24
+pc -> 21 code -> 66
+pc -> 22 code -> 38
+pc -> 24 code -> b2
+pc -> 27 code -> 17
+pc -> 29 code -> b6
+-3.140000
+pc -> 2c code -> 23
+pc -> 2d code -> 24
+pc -> 2e code -> 6e
+pc -> 2f code -> 38
+pc -> 31 code -> b2
+pc -> 34 code -> 17
+pc -> 36 code -> b6
+0.500000
+pc -> 39 code -> 23
+pc -> 3a code -> 24
+pc -> 3b code -> 6a
+pc -> 3c code -> 38
+pc -> 3e code -> b2
+pc -> 41 code -> 17
+pc -> 43 code -> b6
+19.719202
+pc -> 46 code -> 4
+pc -> 47 code -> 36
+pc -> 49 code -> 15
+pc -> 4b code -> 86
+pc -> 4c code -> 38
+pc -> 4e code -> b2
+pc -> 51 code -> 17
+pc -> 53 code -> b6
+1.000000
+pc -> 56 code -> a
+pc -> 57 code -> 37
+pc -> 59 code -> 16
+pc -> 5b code -> 89
+pc -> 5c code -> 38
+pc -> 5e code -> b2
+pc -> 61 code -> 17
+pc -> 63 code -> b6
+1.000000
+pc -> 66 code -> f
+pc -> 67 code -> 39
+pc -> 69 code -> 18
+pc -> 6b code -> 90
+pc -> 6c code -> 38
+pc -> 6e code -> b2
+pc -> 71 code -> 17
+pc -> 73 code -> b6
+1.000000
+pc -> 76 code -> b2
+pc -> 79 code -> 23
+pc -> 7a code -> b8
+pc -> 0 code -> 22
+pc -> 1 code -> ae
+pc -> 7d code -> b6
+3.140000
+pc -> 80 code -> b1
+
+pc -> 0 code -> 12
+pc -> 2 code -> 44
+pc -> 3 code -> b
+pc -> 4 code -> 45
+pc -> 5 code -> 12
+pc -> 7 code -> 46
+pc -> 8 code -> b2
+pc -> b code -> 25
+pc -> c code -> b6
+1342512.125000
+pc -> f code -> 24
+pc -> 10 code -> 23
+pc -> 11 code -> 95
+pc -> 12 code -> 9e
+pc -> 15 code -> b2
+pc -> 18 code -> 24
+pc -> 19 code -> b6
+0.000000
+pc -> 1c code -> 24
+pc -> 1d code -> 23
+pc -> 1e code -> 95
+pc -> 1f code -> 9b
+pc -> 22 code -> b2
+pc -> 25 code -> 24
+pc -> 26 code -> b6
+0.000000
+pc -> 29 code -> 23
+pc -> 2a code -> 24
+pc -> 2b code -> 96
+pc -> 2c code -> 9d
+pc -> 2f code -> b2
+pc -> 32 code -> 23
+pc -> 33 code -> b6
+-1.000000
+pc -> 36 code -> 23
+pc -> 37 code -> 24
+pc -> 38 code -> 96
+pc -> 39 code -> 9c
+pc -> 3c code -> b2
+pc -> 3f code -> 23
+pc -> 40 code -> b6
+-1.000000
+pc -> 43 code -> 23
+pc -> 44 code -> 24
+pc -> 45 code -> 95
+pc -> 46 code -> 99
+pc -> 49 code -> b2
+pc -> 4c code -> 12
+pc -> 4e code -> b6
+diferente
+pc -> 51 code -> 23
+pc -> 52 code -> 24
+pc -> 53 code -> 95
+pc -> 54 code -> 9a
+pc -> 5f code -> b1
+
+pc -> 0 code -> 3
+pc -> 1 code -> 3c
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+0
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+1
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+2
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+3
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+4
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+5
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 14 code -> b1
+
+pc -> 0 code -> 3
+pc -> 1 code -> 3c
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> d code -> a7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> d code -> a7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> d code -> a7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> d code -> a7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> d code -> a7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> 10 code -> b2
+pc -> 13 code -> 1b
+pc -> 14 code -> b6
+5
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> 10 code -> b2
+pc -> 13 code -> 1b
+pc -> 14 code -> b6
+6
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> 10 code -> b2
+pc -> 13 code -> 1b
+pc -> 14 code -> b6
+7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> 10 code -> b2
+pc -> 13 code -> 1b
+pc -> 14 code -> b6
+8
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> 10 code -> b2
+pc -> 13 code -> 1b
+pc -> 14 code -> b6
+9
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 1d code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> e
+pc -> 4 code -> 49
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 16 code -> b2
+pc -> 19 code -> 28
+pc -> 1a code -> b6
+3.597740
+pc -> 1d code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> e
+pc -> 4 code -> 49
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 16 code -> b2
+pc -> 19 code -> 28
+pc -> 1a code -> b6
+3.597740
+pc -> 1d code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> b2
+pc -> 6 code -> 12
+pc -> 8 code -> b6
+Hello World!
+pc -> b code -> b1
+
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Hello, World
+pc -> 8 code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> b2
+pc -> 6 code -> 12
+pc -> 8 code -> b6
+Hello World!
+pc -> b code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> 10
+pc -> 5 code -> 3d
+pc -> 6 code -> b2
+pc -> 9 code -> 1b
+pc -> a code -> 1c
+pc -> b code -> 60
+pc -> c code -> b6
+130
+pc -> f code -> b2
+pc -> 12 code -> 1b
+pc -> 13 code -> 1c
+pc -> 14 code -> 64
+pc -> 15 code -> b6
+70
+pc -> 18 code -> b2
+pc -> 1b code -> 1b
+pc -> 1c code -> 1c
+pc -> 1d code -> 68
+pc -> 1e code -> b6
+3000
+pc -> 21 code -> b2
+pc -> 24 code -> 1b
+pc -> 25 code -> 1c
+pc -> 26 code -> 6c
+pc -> 27 code -> b6
+3
+pc -> 2a code -> b2
+pc -> 2d code -> 1b
+pc -> 2e code -> 74
+pc -> 2f code -> b6
+-100
+pc -> 32 code -> b2
+pc -> 35 code -> 1b
+pc -> 36 code -> 1c
+pc -> 37 code -> 70
+pc -> 38 code -> b6
+10
+pc -> 3b code -> b2
+pc -> 3e code -> 1b
+pc -> 3f code -> 1c
+pc -> 40 code -> 7e
+pc -> 41 code -> b6
+4
+pc -> 44 code -> b2
+pc -> 47 code -> 1b
+pc -> 48 code -> 5
+pc -> 49 code -> 78
+pc -> 4a code -> b6
+400
+pc -> 4d code -> b2
+pc -> 50 code -> 1b
+pc -> 51 code -> 5
+pc -> 52 code -> 7a
+pc -> 53 code -> b6
+25
+pc -> 56 code -> 10
+pc -> 58 code -> 3c
+pc -> 59 code -> b2
+pc -> 5c code -> 1b
+pc -> 5d code -> 5
+pc -> 5e code -> 7a
+pc -> 5f code -> b6
+-25
+pc -> 62 code -> 12
+pc -> 64 code -> 3c
+pc -> 65 code -> b2
+pc -> 68 code -> 1b
+pc -> 69 code -> b6
+1073741823
+pc -> 6c code -> b1
+
+pc -> 0 code -> 11
+pc -> 3 code -> 3c
+pc -> 4 code -> b2
+pc -> 7 code -> 1b
+pc -> 8 code -> 87
+pc -> 9 code -> b6
+254.000000
+pc -> c code -> b2
+pc -> f code -> 1b
+pc -> 10 code -> 86
+pc -> 11 code -> b6
+254.000000
+pc -> 14 code -> b2
+pc -> 17 code -> 1b
+pc -> 18 code -> 85
+pc -> 19 code -> b6
+254
+pc -> 1c code -> b2
+pc -> 1f code -> 1b
+pc -> 20 code -> 92
+pc -> 21 code -> b6
+þ
+pc -> 24 code -> b2
+pc -> 27 code -> 1b
+pc -> 28 code -> 91
+pc -> 29 code -> b6
+-2
+pc -> 2c code -> b2
+pc -> 2f code -> 1b
+pc -> 30 code -> 93
+pc -> 31 code -> b6
+254
+pc -> 34 code -> 1b
+pc -> 35 code -> 74
+pc -> 36 code -> 3c
+pc -> 37 code -> b2
+pc -> 3a code -> 1b
+pc -> 3b code -> 87
+pc -> 3c code -> b6
+-254.000000
+pc -> 3f code -> b2
+pc -> 42 code -> 1b
+pc -> 43 code -> 86
+pc -> 44 code -> b6
+-254.000000
+pc -> 47 code -> b2
+pc -> 4a code -> 1b
+pc -> 4b code -> 85
+pc -> 4c code -> b6
+-254
+pc -> 4f code -> b2
+pc -> 52 code -> 1b
+pc -> 53 code -> 92
+pc -> 54 code -> b6
+
+pc -> 57 code -> b2
+pc -> 5a code -> 1b
+pc -> 5b code -> 91
+pc -> 5c code -> b6
+2
+pc -> 5f code -> b2
+pc -> 62 code -> 1b
+pc -> 63 code -> 93
+pc -> 64 code -> b6
+-254
+pc -> 67 code -> b1
+
+pc -> 0 code -> 8
+pc -> 1 code -> 3c
+pc -> 2 code -> b2
+pc -> 5 code -> 1b
+pc -> 6 code -> b6
+5
+pc -> 9 code -> 6
+pc -> a code -> 3d
+pc -> b code -> b2
+pc -> e code -> 1c
+pc -> f code -> b6
+3
+pc -> 12 code -> 1b
+pc -> 13 code -> 1c
+pc -> 14 code -> 60
+pc -> 15 code -> 3e
+pc -> 16 code -> b2
+pc -> 19 code -> 1d
+pc -> 1a code -> b6
+8
+pc -> 1d code -> 1b
+pc -> 1e code -> 1c
+pc -> 1f code -> 64
+pc -> 20 code -> 36
+pc -> 22 code -> b2
+pc -> 25 code -> 15
+pc -> 27 code -> b6
+2
+pc -> 2a code -> 1b
+pc -> 2b code -> 1c
+pc -> 2c code -> 6c
+pc -> 2d code -> 36
+pc -> 2f code -> b2
+pc -> 32 code -> 15
+pc -> 34 code -> b6
+1
+pc -> 37 code -> 1b
+pc -> 38 code -> 1c
+pc -> 39 code -> 68
+pc -> 3a code -> 36
+pc -> 3c code -> b2
+pc -> 3f code -> 15
+pc -> 41 code -> b6
+15
+pc -> 44 code -> 1b
+pc -> 45 code -> 1c
+pc -> 46 code -> 70
+pc -> 47 code -> 36
+pc -> 49 code -> b2
+pc -> 4c code -> 15
+pc -> 4e code -> b6
+2
+pc -> 51 code -> 14
+pc -> 54 code -> 39
+pc -> 56 code -> 18
+pc -> 58 code -> 8e
+pc -> 59 code -> 36
+pc -> 5b code -> b2
+pc -> 5e code -> 15
+pc -> 60 code -> b6
+2
+pc -> 63 code -> a
+pc -> 64 code -> 37
+pc -> 66 code -> 16
+pc -> 68 code -> 88
+pc -> 69 code -> 36
+pc -> 6b code -> b2
+pc -> 6e code -> 15
+pc -> 70 code -> b6
+1
+pc -> 73 code -> c
+pc -> 74 code -> 38
+pc -> 76 code -> 17
+pc -> 78 code -> 8b
+pc -> 79 code -> 36
+pc -> 7b code -> b2
+pc -> 7e code -> 15
+pc -> 80 code -> b6
+1
+pc -> 83 code -> 8
+pc -> 84 code -> 36
+pc -> 86 code -> 15
+pc -> 88 code -> 36
+pc -> 8a code -> b2
+pc -> 8d code -> 15
+pc -> 8f code -> b6
+5
+pc -> 92 code -> b2
+pc -> 95 code -> 1b
+pc -> 96 code -> b8
+pc -> 0 code -> 1a
+pc -> 1 code -> ac
+pc -> 99 code -> b6
+5
+pc -> 9c code -> b1
+
+pc -> 0 code -> 5
+pc -> 1 code -> 3c
+pc -> 2 code -> 6
+pc -> 3 code -> 3d
+pc -> 4 code -> 1b
+pc -> 5 code -> 3
+pc -> 6 code -> 80
+pc -> 7 code -> 3e
+pc -> 8 code -> 1b
+pc -> 9 code -> 3
+pc -> a code -> 7e
+pc -> b code -> 36
+pc -> d code -> b2
+pc -> 10 code -> 1d
+pc -> 11 code -> b6
+2
+pc -> 14 code -> b2
+pc -> 17 code -> 15
+pc -> 19 code -> b6
+0
+pc -> 1c code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 40
+pc -> 4 code -> 14
+pc -> 7 code -> 42
+pc -> 8 code -> b2
+pc -> b code -> 1f
+pc -> c code -> 21
+pc -> d code -> 61
+pc -> e code -> b6
+120
+pc -> 11 code -> b2
+pc -> 14 code -> 1f
+pc -> 15 code -> 21
+pc -> 16 code -> 65
+pc -> 17 code -> b6
+80
+pc -> 1a code -> b2
+pc -> 1d code -> 1f
+pc -> 1e code -> 21
+pc -> 1f code -> 69
+pc -> 20 code -> b6
+2000
+pc -> 23 code -> b2
+pc -> 26 code -> 1f
+pc -> 27 code -> 21
+pc -> 28 code -> 6d
+pc -> 29 code -> b6
+5
+pc -> 2c code -> b2
+pc -> 2f code -> 1f
+pc -> 30 code -> 75
+pc -> 31 code -> b6
+-100
+pc -> 34 code -> b2
+pc -> 37 code -> 1f
+pc -> 38 code -> 21
+pc -> 39 code -> 71
+pc -> 3a code -> b6
+0
+pc -> 3d code -> b2
+pc -> 40 code -> 1f
+pc -> 41 code -> 21
+pc -> 42 code -> 7f
+pc -> 43 code -> b6
+4
+pc -> 46 code -> b2
+pc -> 49 code -> 1f
+pc -> 4a code -> 5
+pc -> 4b code -> 79
+pc -> 4c code -> b6
+400
+pc -> 4f code -> b2
+pc -> 52 code -> 1f
+pc -> 53 code -> 5
+pc -> 54 code -> 7b
+pc -> 55 code -> b6
+25
+pc -> 58 code -> 14
+pc -> 5b code -> 40
+pc -> 5c code -> b2
+pc -> 5f code -> 1f
+pc -> 60 code -> b6
+1073741823
+pc -> 63 code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 40
+pc -> 4 code -> 1f
+pc -> 5 code -> 88
+pc -> 6 code -> 93
+pc -> 7 code -> 3e
+pc -> 8 code -> 1f
+pc -> 9 code -> 89
+pc -> a code -> 38
+pc -> c code -> 1f
+pc -> d code -> 88
+pc -> e code -> 36
+pc -> 10 code -> b2
+pc -> 13 code -> 1f
+pc -> 14 code -> b6
+-268435457
+pc -> 17 code -> b2
+pc -> 1a code -> 1d
+pc -> 1b code -> b6
+-1
+pc -> 1e code -> b2
+pc -> 21 code -> 17
+pc -> 23 code -> b6
+-268435456.000000
+pc -> 26 code -> b2
+pc -> 29 code -> 15
+pc -> 2b code -> b6
+-268435457
+pc -> 2e code -> 1f
+pc -> 2f code -> 75
+pc -> 30 code -> 40
+pc -> 31 code -> 1f
+pc -> 32 code -> 89
+pc -> 33 code -> 38
+pc -> 35 code -> 1f
+pc -> 36 code -> 88
+pc -> 37 code -> 36
+pc -> 39 code -> b2
+pc -> 3c code -> 1f
+pc -> 3d code -> b6
+268435457
+pc -> 40 code -> b2
+pc -> 43 code -> 1d
+pc -> 44 code -> b6
+-1
+pc -> 47 code -> b2
+pc -> 4a code -> 17
+pc -> 4c code -> b6
+268435456.000000
+pc -> 4f code -> b2
+pc -> 52 code -> 15
+pc -> 54 code -> b6
+268435457
+pc -> 57 code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 40
+pc -> 4 code -> b2
+pc -> 7 code -> 1f
+pc -> 8 code -> b6
+5
+pc -> b code -> 14
+pc -> e code -> 42
+pc -> f code -> 1f
+pc -> 10 code -> 21
+pc -> 11 code -> 61
+pc -> 12 code -> 37
+pc -> 14 code -> b2
+pc -> 17 code -> 16
+pc -> 19 code -> b6
+8
+pc -> 1c code -> 1f
+pc -> 1d code -> 21
+pc -> 1e code -> 65
+pc -> 1f code -> 37
+pc -> 21 code -> b2
+pc -> 24 code -> 16
+pc -> 26 code -> b6
+2
+pc -> 29 code -> 1f
+pc -> 2a code -> 21
+pc -> 2b code -> 6d
+pc -> 2c code -> 37
+pc -> 2e code -> b2
+pc -> 31 code -> 16
+pc -> 33 code -> b6
+1
+pc -> 36 code -> 1f
+pc -> 37 code -> 21
+pc -> 38 code -> 69
+pc -> 39 code -> 37
+pc -> 3b code -> b2
+pc -> 3e code -> 16
+pc -> 40 code -> b6
+15
+pc -> 43 code -> 1f
+pc -> 44 code -> 21
+pc -> 45 code -> 71
+pc -> 46 code -> 37
+pc -> 48 code -> b2
+pc -> 4b code -> 16
+pc -> 4d code -> b6
+2
+pc -> 50 code -> 10
+pc -> 52 code -> 36
+pc -> 54 code -> 15
+pc -> 56 code -> 85
+pc -> 57 code -> 37
+pc -> 59 code -> b2
+pc -> 5c code -> 16
+pc -> 5e code -> b6
+6
+pc -> 61 code -> 12
+pc -> 63 code -> 38
+pc -> 65 code -> 17
+pc -> 67 code -> 8c
+pc -> 68 code -> 37
+pc -> 6a code -> b2
+pc -> 6d code -> 16
+pc -> 6f code -> b6
+8
+pc -> 72 code -> 14
+pc -> 75 code -> 39
+pc -> 77 code -> 18
+pc -> 79 code -> 8f
+pc -> 7a code -> 37
+pc -> 7c code -> b2
+pc -> 7f code -> 16
+pc -> 81 code -> b6
+5
+pc -> 84 code -> 8
+pc -> 85 code -> 36
+pc -> 87 code -> 15
+pc -> 89 code -> 85
+pc -> 8a code -> 37
+pc -> 8c code -> b2
+pc -> 8f code -> 16
+pc -> 91 code -> b6
+5
+pc -> 94 code -> b2
+pc -> 97 code -> 1f
+pc -> 98 code -> b8
+pc -> 0 code -> 1e
+pc -> 1 code -> ad
+pc -> 9b code -> b6
+5
+pc -> 9e code -> b1
+
+pc -> 0 code -> 6
+pc -> 1 code -> bc
+pc -> 3 code -> 59
+pc -> 4 code -> 3
+pc -> 5 code -> 14
+pc -> 8 code -> 50
+pc -> 9 code -> 59
+pc -> a code -> 4
+pc -> b code -> 14
+pc -> e code -> 50
+pc -> f code -> 59
+pc -> 10 code -> 5
+pc -> 11 code -> 14
+pc -> 14 code -> 50
+pc -> 15 code -> 4c
+pc -> 16 code -> 2b
+pc -> 17 code -> 5
+pc -> 18 code -> 2f
+pc -> 19 code -> 41
+pc -> 1a code -> b2
+pc -> 1d code -> 20
+pc -> 1e code -> b6
+30
+pc -> 21 code -> 14
+pc -> 24 code -> 37
+pc -> 26 code -> b2
+pc -> 29 code -> 16
+pc -> 2b code -> b6
+1000000
+pc -> 2e code -> 9
+pc -> 2f code -> 37
+pc -> 31 code -> b2
+pc -> 34 code -> 16
+pc -> 36 code -> b6
+0
+pc -> 39 code -> a
+pc -> 3a code -> 37
+pc -> 3c code -> b2
+pc -> 3f code -> 16
+pc -> 41 code -> b6
+1
+pc -> 44 code -> b1
+
+pc -> 0 code -> 9
+pc -> 1 code -> 40
+pc -> 2 code -> a
+pc -> 3 code -> 42
+pc -> 4 code -> 1f
+pc -> 5 code -> 21
+pc -> 6 code -> 7f
+pc -> 7 code -> 37
+pc -> 9 code -> b2
+pc -> c code -> 16
+pc -> e code -> b6
+0
+pc -> 11 code -> 1f
+pc -> 12 code -> 21
+pc -> 13 code -> 81
+pc -> 14 code -> 37
+pc -> 16 code -> b2
+pc -> 19 code -> 16
+pc -> 1b code -> b6
+1
+pc -> 1e code -> 1f
+pc -> 1f code -> 21
+pc -> 20 code -> 83
+pc -> 21 code -> 37
+pc -> 23 code -> b2
+pc -> 26 code -> 16
+pc -> 28 code -> b6
+1
+pc -> 2b code -> 1f
+pc -> 2c code -> 5
+pc -> 2d code -> 79
+pc -> 2e code -> 37
+pc -> 30 code -> 1f
+pc -> 31 code -> 5
+pc -> 32 code -> 7b
+pc -> 33 code -> 37
+pc -> 35 code -> b2
+pc -> 38 code -> 16
+pc -> 3a code -> b6
+0
+pc -> 3d code -> 21
+pc -> 3e code -> 1f
+pc -> 3f code -> 94
+pc -> 40 code -> 9e
+pc -> 43 code -> b2
+pc -> 46 code -> 21
+pc -> 47 code -> b6
+1
+pc -> 4a code -> 1f
+pc -> 4b code -> 21
+pc -> 4c code -> 94
+pc -> 4d code -> 9c
+pc -> 50 code -> b2
+pc -> 53 code -> 1f
+pc -> 54 code -> b6
+0
+pc -> 57 code -> 1f
+pc -> 58 code -> 21
+pc -> 59 code -> 94
+pc -> 5a code -> 99
+pc -> 5d code -> b2
+pc -> 60 code -> 3
+pc -> 61 code -> b6
+0
+pc -> 64 code -> b1
+
+pc -> 0 code -> b1
+
+pc -> 0 code -> b1
+
+pc -> 0 code -> b2
+pc -> 3 code -> 5
+pc -> 4 code -> 6
+pc -> 5 code -> b8
+pc -> 0 code -> 1a
+pc -> 1 code -> 1b
+pc -> 2 code -> 60
+pc -> 3 code -> ac
+pc -> 8 code -> b6
+5
+pc -> b code -> b2
+pc -> e code -> 14
+pc -> 11 code -> 14
+pc -> 14 code -> b8
+pc -> 0 code -> 26
+35.35
+pc -> 1 code -> 28
+pc -> 2 code -> 63
+pc -> 3 code -> af
+pc -> 17 code -> b6
+65.700000
+pc -> 1a code -> b2
+pc -> 1d code -> 14
+pc -> 20 code -> 14
+pc -> 23 code -> b8
+pc -> 0 code -> 1e
+pc -> 1 code -> 20
+pc -> 2 code -> 65
+pc -> 3 code -> ad
+pc -> 26 code -> b6
+-400000000
+pc -> 29 code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> 10
+pc -> 5 code -> 3d
+pc -> 6 code -> b2
+pc -> 9 code -> 12
+pc -> b code -> b6
+Hello, World!!!
+pc -> e code -> 1b
+pc -> f code -> 1c
+pc -> 10 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Segunda funcao
+pc -> 8 code -> b1
+pc -> 13 code -> 1b
+pc -> 14 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Primeira funcao
+pc -> 8 code -> b1
+pc -> 17 code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> 10
+pc -> 5 code -> 3d
+pc -> 6 code -> b2
+pc -> 9 code -> 12
+pc -> b code -> b6
+Hello, World!!!
+pc -> e code -> 1b
+pc -> f code -> 1c
+pc -> 10 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Segunda funcao
+pc -> 8 code -> b1
+pc -> 13 code -> 1b
+pc -> 14 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Primeira funcao
+pc -> 8 code -> b1
+pc -> 17 code -> b1
+
+pc -> 0 code -> 12
+pc -> 2 code -> 4c
+pc -> 3 code -> b2
+pc -> 6 code -> 2b
+pc -> 7 code -> b6
+OLAR, TESTANDO PRINT
+pc -> a code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> 1b
+pc -> 4 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 1a
+pc -> 4 code -> b6
+10
+pc -> 7 code -> 84
+pc -> a code -> 1a
+pc -> b code -> 10
+pc -> d code -> a2
+pc -> 10 code -> 1a
+pc -> 11 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 1a
+pc -> 4 code -> b6
+11
+pc -> 7 code -> 84
+pc -> a code -> 1a
+pc -> b code -> 10
+pc -> d code -> a2
+pc -> 10 code -> 1a
+pc -> 11 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 1a
+pc -> 4 code -> b6
+12
+pc -> 7 code -> 84
+pc -> a code -> 1a
+pc -> b code -> 10
+pc -> d code -> a2
+pc -> 10 code -> 1a
+pc -> 11 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 1a
+pc -> 4 code -> b6
+13
+pc -> 7 code -> 84
+pc -> a code -> 1a
+pc -> b code -> 10
+pc -> d code -> a2
+pc -> 10 code -> 1a
+pc -> 11 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 1a
+pc -> 4 code -> b6
+14
+pc -> 7 code -> 84
+pc -> a code -> 1a
+pc -> b code -> 10
+pc -> d code -> a2
+pc -> 14 code -> b1
+pc -> 14 code -> b1
+pc -> 14 code -> b1
+pc -> 14 code -> b1
+pc -> 14 code -> b1
+pc -> 7 code -> b1
+
+missing cafe babe
+
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Magic Number
+pc -> 8 code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> 10
+pc -> 5 code -> 3d
+pc -> 6 code -> b2
+pc -> 9 code -> 1b
+pc -> a code -> 1c
+pc -> b code -> 60
+pc -> c code -> b6
+120
+pc -> f code -> b2
+pc -> 12 code -> 1b
+pc -> 13 code -> 1c
+pc -> 14 code -> 64
+pc -> 15 code -> b6
+80
+pc -> 18 code -> b2
+pc -> 1b code -> 1b
+pc -> 1c code -> 1c
+pc -> 1d code -> 68
+pc -> 1e code -> b6
+2000
+pc -> 21 code -> b2
+pc -> 24 code -> 1b
+pc -> 25 code -> 1c
+pc -> 26 code -> 6c
+pc -> 27 code -> b6
+5
+pc -> 2a code -> b2
+pc -> 2d code -> 1b
+pc -> 2e code -> 74
+pc -> 2f code -> b6
+-100
+pc -> 32 code -> b2
+pc -> 35 code -> 1b
+pc -> 36 code -> 1c
+pc -> 37 code -> 70
+pc -> 38 code -> b6
+0
+pc -> 3b code -> b2
+pc -> 3e code -> 1b
+pc -> 3f code -> 1c
+pc -> 40 code -> 7e
+pc -> 41 code -> b6
+4
+pc -> 44 code -> b2
+pc -> 47 code -> 1b
+pc -> 48 code -> 5
+pc -> 49 code -> 78
+pc -> 4a code -> b6
+400
+pc -> 4d code -> b2
+pc -> 50 code -> 1b
+pc -> 51 code -> 5
+pc -> 52 code -> 7a
+pc -> 53 code -> b6
+25
+pc -> 56 code -> b1
+
+pc -> 0 code -> 11
+pc -> 3 code -> 3c
+pc -> 4 code -> 1b
+pc -> 5 code -> 87
+pc -> 6 code -> 49
+pc -> 7 code -> 1b
+pc -> 8 code -> 86
+pc -> 9 code -> 38
+pc -> b code -> 1b
+pc -> c code -> 36
+pc -> e code -> b2
+pc -> 11 code -> 1b
+pc -> 12 code -> b6
+255
+pc -> 15 code -> b2
+pc -> 18 code -> 28
+pc -> 19 code -> b6
+255.000000
+pc -> 1c code -> b2
+pc -> 1f code -> 17
+pc -> 21 code -> b6
+255.000000
+pc -> 24 code -> b2
+pc -> 27 code -> 15
+pc -> 29 code -> b6
+255
+pc -> 2c code -> 1b
+pc -> 2d code -> 87
+pc -> 2e code -> 49
+pc -> 2f code -> 1b
+pc -> 30 code -> 86
+pc -> 31 code -> 38
+pc -> 33 code -> 1b
+pc -> 34 code -> 36
+pc -> 36 code -> b2
+pc -> 39 code -> 1b
+pc -> 3a code -> b6
+255
+pc -> 3d code -> b2
+pc -> 40 code -> 28
+pc -> 41 code -> b6
+255.000000
+pc -> 44 code -> b2
+pc -> 47 code -> 17
+pc -> 49 code -> b6
+255.000000
+pc -> 4c code -> b2
+pc -> 4f code -> 15
+pc -> 51 code -> b6
+255
+pc -> 54 code -> b1
+
+pc -> 0 code -> 8
+pc -> 1 code -> 3c
+pc -> 2 code -> b2
+pc -> 5 code -> 1b
+pc -> 6 code -> b6
+5
+pc -> 9 code -> 6
+pc -> a code -> 3d
+pc -> b code -> b2
+pc -> e code -> 1c
+pc -> f code -> b6
+3
+pc -> 12 code -> 1b
+pc -> 13 code -> 1c
+pc -> 14 code -> 60
+pc -> 15 code -> 93
+pc -> 16 code -> 3e
+pc -> 17 code -> b2
+pc -> 1a code -> 1d
+pc -> 1b code -> b6
+8
+pc -> 1e code -> 1b
+pc -> 1f code -> 1c
+pc -> 20 code -> 64
+pc -> 21 code -> 93
+pc -> 22 code -> 36
+pc -> 24 code -> b2
+pc -> 27 code -> 15
+pc -> 29 code -> b6
+2
+pc -> 2c code -> 1b
+pc -> 2d code -> 1c
+pc -> 2e code -> 6c
+pc -> 2f code -> 93
+pc -> 30 code -> 36
+pc -> 32 code -> b2
+pc -> 35 code -> 15
+pc -> 37 code -> b6
+1
+pc -> 3a code -> 1b
+pc -> 3b code -> 1c
+pc -> 3c code -> 68
+pc -> 3d code -> 93
+pc -> 3e code -> 36
+pc -> 40 code -> b2
+pc -> 43 code -> 15
+pc -> 45 code -> b6
+15
+pc -> 48 code -> 1b
+pc -> 49 code -> 1c
+pc -> 4a code -> 70
+pc -> 4b code -> 93
+pc -> 4c code -> 36
+pc -> 4e code -> b2
+pc -> 51 code -> 15
+pc -> 53 code -> b6
+2
+pc -> 56 code -> 4
+pc -> 57 code -> 36
+pc -> 59 code -> 15
+pc -> 5b code -> 93
+pc -> 5c code -> 36
+pc -> 5e code -> b2
+pc -> 61 code -> 15
+pc -> 63 code -> b6
+1
+pc -> 66 code -> a
+pc -> 67 code -> 37
+pc -> 69 code -> 16
+pc -> 6b code -> 88
+pc -> 6c code -> 93
+pc -> 6d code -> 36
+pc -> 6f code -> b2
+pc -> 72 code -> 15
+pc -> 74 code -> b6
+1
+pc -> 77 code -> c
+pc -> 78 code -> 38
+pc -> 7a code -> 17
+pc -> 7c code -> 8b
+pc -> 7d code -> 93
+pc -> 7e code -> 36
+pc -> 80 code -> b2
+pc -> 83 code -> 15
+pc -> 85 code -> b6
+1
+pc -> 88 code -> 14
+pc -> 8b code -> 39
+pc -> 8d code -> 18
+pc -> 8f code -> 8e
+pc -> 90 code -> 93
+pc -> 91 code -> 36
+pc -> 93 code -> b2
+pc -> 96 code -> 15
+pc -> 98 code -> b6
+5
+pc -> 9b code -> b2
+pc -> 9e code -> 1b
+pc -> 9f code -> b8
+pc -> 0 code -> 1a
+pc -> 1 code -> ac
+pc -> a2 code -> b6
+5
+pc -> a5 code -> b1
+
+pc -> 0 code -> 6
+pc -> 1 code -> bc
+pc -> 3 code -> 59
+pc -> 4 code -> 3
+pc -> 5 code -> 10
+pc -> 7 code -> 56
+pc -> 8 code -> 59
+pc -> 9 code -> 4
+pc -> a code -> 10
+pc -> c code -> 56
+pc -> d code -> 59
+pc -> e code -> 5
+pc -> f code -> 10
+pc -> 11 code -> 56
+pc -> 12 code -> 4c
+pc -> 13 code -> 2b
+pc -> 14 code -> 5
+pc -> 15 code -> 35
+pc -> 16 code -> 3d
+pc -> 17 code -> b2
+pc -> 1a code -> 1c
+pc -> 1b code -> b6
+30
+pc -> 1e code -> 10
+pc -> 20 code -> 3e
+pc -> 21 code -> b2
+pc -> 24 code -> 1d
+pc -> 25 code -> b6
+100
+pc -> 28 code -> 3
+pc -> 29 code -> 36
+pc -> 2b code -> b2
+pc -> 2e code -> 15
+pc -> 30 code -> b6
+0
+pc -> 33 code -> 4
+pc -> 34 code -> 36
+pc -> 36 code -> b2
+pc -> 39 code -> 15
+pc -> 3b code -> b6
+1
+pc -> 3e code -> b1
+
+pc -> 0 code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> b2
+pc -> 6 code -> 1b
+pc -> 7 code -> b6
+10
+pc -> a code -> 10
+pc -> c code -> 3d
+pc -> d code -> b2
+pc -> 10 code -> 1c
+pc -> 11 code -> b6
+15
+pc -> 14 code -> 1b
+pc -> 15 code -> 1c
+pc -> 16 code -> 60
+pc -> 17 code -> 3e
+pc -> 18 code -> b2
+pc -> 1b code -> 1d
+pc -> 1c code -> b6
+25
+pc -> 1f code -> 1c
+pc -> 20 code -> 1b
+pc -> 21 code -> 64
+pc -> 22 code -> 5
+pc -> 23 code -> 60
+pc -> 24 code -> 36
+pc -> 26 code -> b2
+pc -> 29 code -> 15
+pc -> 2b code -> b6
+7
+pc -> 2e code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+foo
+pc -> 8 code -> b1
+pc -> 31 code -> b1
+
+pc -> 0 code -> 8
+pc -> 1 code -> bc
+pc -> 3 code -> 59
+pc -> 4 code -> 3
+pc -> 5 code -> 4
+pc -> 6 code -> 4f
+pc -> 7 code -> 59
+pc -> 8 code -> 4
+pc -> 9 code -> 5
+pc -> a code -> 4f
+pc -> b code -> 59
+pc -> c code -> 5
+pc -> d code -> 6
+pc -> e code -> 4f
+pc -> f code -> 59
+pc -> 10 code -> 6
+pc -> 11 code -> 7
+pc -> 12 code -> 4f
+pc -> 13 code -> 59
+pc -> 14 code -> 7
+pc -> 15 code -> 8
+pc -> 16 code -> 4f
+pc -> 17 code -> 4c
+pc -> 18 code -> 6
+pc -> 19 code -> bc
+pc -> 1b code -> 4d
+pc -> 1c code -> 2b
+pc -> 1d code -> 5
+pc -> 1e code -> 2e
+pc -> 1f code -> 3e
+pc -> 20 code -> b2
+pc -> 23 code -> 12
+pc -> 25 code -> b6
+
+INTEIRO
+pc -> 28 code -> b2
+pc -> 2b code -> 2b
+pc -> 2c code -> 3
+pc -> 2d code -> 2e
+pc -> 2e code -> b6
+1
+pc -> 31 code -> b2
+pc -> 34 code -> 2b
+pc -> 35 code -> 4
+pc -> 36 code -> 2e
+pc -> 37 code -> b6
+2
+pc -> 3a code -> b2
+pc -> 3d code -> 2b
+pc -> 3e code -> 6
+pc -> 3f code -> 2e
+pc -> 40 code -> b6
+4
+pc -> 43 code -> b2
+pc -> 46 code -> 2b
+pc -> 47 code -> 5
+pc -> 48 code -> 2e
+pc -> 49 code -> b6
+3
+pc -> 4c code -> b2
+pc -> 4f code -> 2b
+pc -> 50 code -> 7
+pc -> 51 code -> 2e
+pc -> 52 code -> b6
+5
+pc -> 55 code -> b2
+pc -> 58 code -> 1d
+pc -> 59 code -> b6
+3
+pc -> 5c code -> 2c
+pc -> 5d code -> 3
+pc -> 5e code -> 10
+pc -> 60 code -> 4f
+pc -> 61 code -> b2
+pc -> 64 code -> 2c
+pc -> 65 code -> 3
+pc -> 66 code -> 2e
+pc -> 67 code -> b6
+6
+pc -> 6a code -> 2c
+pc -> 6b code -> 4
+pc -> 6c code -> 10
+pc -> 6e code -> 4f
+pc -> 6f code -> b2
+pc -> 72 code -> 2c
+pc -> 73 code -> 4
+pc -> 74 code -> 2e
+pc -> 75 code -> b6
+7
+pc -> 78 code -> 2c
+pc -> 79 code -> 5
+pc -> 7a code -> 10
+pc -> 7c code -> 4f
+pc -> 7d code -> b2
+pc -> 80 code -> 2c
+pc -> 81 code -> 5
+pc -> 82 code -> 2e
+pc -> 83 code -> b6
+8
+pc -> 86 code -> 8
+pc -> 87 code -> bc
+pc -> 89 code -> 59
+pc -> 8a code -> 3
+pc -> 8b code -> a
+pc -> 8c code -> 50
+pc -> 8d code -> 59
+pc -> 8e code -> 4
+pc -> 8f code -> 14
+pc -> 92 code -> 50
+pc -> 93 code -> 59
+pc -> 94 code -> 5
+pc -> 95 code -> 14
+pc -> 98 code -> 50
+pc -> 99 code -> 59
+pc -> 9a code -> 6
+pc -> 9b code -> 14
+pc -> 9e code -> 50
+pc -> 9f code -> 59
+pc -> a0 code -> 7
+pc -> a1 code -> 14
+pc -> a4 code -> 50
+pc -> a5 code -> 3a
+pc -> a7 code -> 6
+pc -> a8 code -> bc
+pc -> aa code -> 3a
+pc -> ac code -> 19
+pc -> ae code -> 5
+pc -> af code -> 2f
+pc -> b0 code -> 37
+pc -> b2 code -> b2
+pc -> b5 code -> 12
+pc -> b7 code -> b6
+
+LONG
+pc -> ba code -> b2
+pc -> bd code -> 19
+pc -> bf code -> 3
+pc -> c0 code -> 2f
+pc -> c1 code -> b6
+1
+pc -> c4 code -> b2
+pc -> c7 code -> 19
+pc -> c9 code -> 4
+pc -> ca code -> 2f
+pc -> cb code -> b6
+2
+pc -> ce code -> b2
+pc -> d1 code -> 19
+pc -> d3 code -> 6
+pc -> d4 code -> 2f
+pc -> d5 code -> b6
+4
+pc -> d8 code -> b2
+pc -> db code -> 19
+pc -> dd code -> 5
+pc -> de code -> 2f
+pc -> df code -> b6
+3
+pc -> e2 code -> b2
+pc -> e5 code -> 19
+pc -> e7 code -> 7
+pc -> e8 code -> 2f
+pc -> e9 code -> b6
+5
+pc -> ec code -> b2
+pc -> ef code -> 16
+pc -> f1 code -> b6
+3
+pc -> f4 code -> 19
+pc -> f6 code -> 3
+pc -> f7 code -> 14
+pc -> fa code -> 50
+pc -> fb code -> b2
+pc -> fe code -> 19
+pc -> 100 code -> 3
+pc -> 101 code -> 2f
+pc -> 102 code -> b6
+6
+pc -> 105 code -> 19
+pc -> 107 code -> 4
+pc -> 108 code -> 14
+pc -> 10b code -> 50
+pc -> 10c code -> b2
+pc -> 10f code -> 19
+pc -> 111 code -> 4
+pc -> 112 code -> 2f
+pc -> 113 code -> b6
+7
+pc -> 116 code -> 19
+pc -> 118 code -> 5
+pc -> 119 code -> 14
+pc -> 11c code -> 50
+pc -> 11d code -> b2
+pc -> 120 code -> 19
+pc -> 122 code -> 5
+pc -> 123 code -> 2f
+pc -> 124 code -> b6
+8
+pc -> 127 code -> 8
+pc -> 128 code -> bc
+pc -> 12a code -> 59
+pc -> 12b code -> 3
+pc -> 12c code -> c
+pc -> 12d code -> 51
+pc -> 12e code -> 59
+pc -> 12f code -> 4
+pc -> 130 code -> d
+pc -> 131 code -> 51
+pc -> 132 code -> 59
+pc -> 133 code -> 5
+pc -> 134 code -> 12
+pc -> 136 code -> 51
+pc -> 137 code -> 59
+pc -> 138 code -> 6
+pc -> 139 code -> 12
+pc -> 13b code -> 51
+pc -> 13c code -> 59
+pc -> 13d code -> 7
+pc -> 13e code -> 12
+pc -> 140 code -> 51
+pc -> 141 code -> 3a
+pc -> 143 code -> 6
+pc -> 144 code -> bc
+pc -> 146 code -> 3a
+pc -> 148 code -> 19
+pc -> 14a code -> 5
+pc -> 14b code -> 30
+pc -> 14c code -> 38
+pc -> 14e code -> b2
+pc -> 151 code -> 12
+pc -> 153 code -> b6
+
+FLOAT
+pc -> 156 code -> b2
+pc -> 159 code -> 19
+pc -> 15b code -> 3
+pc -> 15c code -> 30
+pc -> 15d code -> b6
+1.000000
+pc -> 160 code -> b2
+pc -> 163 code -> 19
+pc -> 165 code -> 4
+pc -> 166 code -> 30
+pc -> 167 code -> b6
+2.000000
+pc -> 16a code -> b2
+pc -> 16d code -> 19
+pc -> 16f code -> 6
+pc -> 170 code -> 30
+pc -> 171 code -> b6
+4.000000
+pc -> 174 code -> b2
+pc -> 177 code -> 19
+pc -> 179 code -> 5
+pc -> 17a code -> 30
+pc -> 17b code -> b6
+3.000000
+pc -> 17e code -> b2
+pc -> 181 code -> 19
+pc -> 183 code -> 7
+pc -> 184 code -> 30
+pc -> 185 code -> b6
+5.000000
+pc -> 188 code -> b2
+pc -> 18b code -> 17
+pc -> 18d code -> b6
+3.000000
+pc -> 190 code -> 19
+pc -> 192 code -> 3
+pc -> 193 code -> 12
+pc -> 195 code -> 51
+pc -> 196 code -> b2
+pc -> 199 code -> 19
+pc -> 19b code -> 3
+pc -> 19c code -> 30
+pc -> 19d code -> b6
+6.000000
+pc -> 1a0 code -> 19
+pc -> 1a2 code -> 4
+pc -> 1a3 code -> 12
+pc -> 1a5 code -> 51
+pc -> 1a6 code -> b2
+pc -> 1a9 code -> 19
+pc -> 1ab code -> 4
+pc -> 1ac code -> 30
+pc -> 1ad code -> b6
+7.000000
+pc -> 1b0 code -> 19
+pc -> 1b2 code -> 5
+pc -> 1b3 code -> 12
+pc -> 1b5 code -> 51
+pc -> 1b6 code -> b2
+pc -> 1b9 code -> 19
+pc -> 1bb code -> 5
+pc -> 1bc code -> 30
+pc -> 1bd code -> b6
+8.000000
+pc -> 1c0 code -> 8
+pc -> 1c1 code -> bc
+pc -> 1c3 code -> 59
+pc -> 1c4 code -> 3
+pc -> 1c5 code -> f
+pc -> 1c6 code -> 52
+pc -> 1c7 code -> 59
+pc -> 1c8 code -> 4
+pc -> 1c9 code -> 14
+pc -> 1cc code -> 52
+pc -> 1cd code -> 59
+pc -> 1ce code -> 5
+pc -> 1cf code -> 14
+pc -> 1d2 code -> 52
+pc -> 1d3 code -> 59
+pc -> 1d4 code -> 6
+pc -> 1d5 code -> 14
+pc -> 1d8 code -> 52
+pc -> 1d9 code -> 59
+pc -> 1da code -> 7
+pc -> 1db code -> 14
+pc -> 1de code -> 52
+pc -> 1df code -> 3a
+pc -> 1e1 code -> 6
+pc -> 1e2 code -> bc
+pc -> 1e4 code -> 3a
+pc -> 1e6 code -> 19
+pc -> 1e8 code -> 5
+pc -> 1e9 code -> 31
+pc -> 1ea code -> 39
+pc -> 1ec code -> b2
+pc -> 1ef code -> 12
+pc -> 1f1 code -> b6
+
+DOUBLE
+pc -> 1f4 code -> b2
+pc -> 1f7 code -> 19
+pc -> 1f9 code -> 3
+pc -> 1fa code -> 31
+pc -> 1fb code -> b6
+1.000000
+pc -> 1fe code -> b2
+pc -> 201 code -> 19
+pc -> 203 code -> 4
+pc -> 204 code -> 31
+pc -> 205 code -> b6
+2.000000
+pc -> 208 code -> b2
+pc -> 20b code -> 19
+pc -> 20d code -> 6
+pc -> 20e code -> 31
+pc -> 20f code -> b6
+4.000000
+pc -> 212 code -> b2
+pc -> 215 code -> 19
+pc -> 217 code -> 5
+pc -> 218 code -> 31
+pc -> 219 code -> b6
+3.000000
+pc -> 21c code -> b2
+pc -> 21f code -> 19
+pc -> 221 code -> 7
+pc -> 222 code -> 31
+pc -> 223 code -> b6
+5.000000
+pc -> 226 code -> b2
+pc -> 229 code -> 18
+pc -> 22b code -> b6
+3.000000
+pc -> 22e code -> 19
+pc -> 230 code -> 3
+pc -> 231 code -> 14
+pc -> 234 code -> 52
+pc -> 235 code -> b2
+pc -> 238 code -> 19
+pc -> 23a code -> 3
+pc -> 23b code -> 31
+pc -> 23c code -> b6
+6.000000
+pc -> 23f code -> 19
+pc -> 241 code -> 4
+pc -> 242 code -> 14
+pc -> 245 code -> 52
+pc -> 246 code -> b2
+pc -> 249 code -> 19
+pc -> 24b code -> 4
+pc -> 24c code -> 31
+pc -> 24d code -> b6
+7.000000
+pc -> 250 code -> 19
+pc -> 252 code -> 5
+pc -> 253 code -> 14
+pc -> 256 code -> 52
+pc -> 257 code -> b2
+pc -> 25a code -> 19
+pc -> 25c code -> 5
+pc -> 25d code -> 31
+pc -> 25e code -> b6
+8.000000
+pc -> 261 code -> 8
+pc -> 262 code -> bc
+pc -> 264 code -> 59
+pc -> 265 code -> 3
+pc -> 266 code -> 4
+pc -> 267 code -> 56
+pc -> 268 code -> 59
+pc -> 269 code -> 4
+pc -> 26a code -> 5
+pc -> 26b code -> 56
+pc -> 26c code -> 59
+pc -> 26d code -> 5
+pc -> 26e code -> 6
+pc -> 26f code -> 56
+pc -> 270 code -> 59
+pc -> 271 code -> 6
+pc -> 272 code -> 7
+pc -> 273 code -> 56
+pc -> 274 code -> 59
+pc -> 275 code -> 7
+pc -> 276 code -> 8
+pc -> 277 code -> 56
+pc -> 278 code -> 3a
+pc -> 27a code -> 6
+pc -> 27b code -> bc
+pc -> 27d code -> 3a
+pc -> 27f code -> 19
+pc -> 281 code -> 5
+pc -> 282 code -> 35
+pc -> 283 code -> 36
+pc -> 285 code -> b2
+pc -> 288 code -> 12
+pc -> 28a code -> b6
+
+SHORT
+pc -> 28d code -> b2
+pc -> 290 code -> 19
+pc -> 292 code -> 3
+pc -> 293 code -> 35
+pc -> 294 code -> b6
+1
+pc -> 297 code -> b2
+pc -> 29a code -> 19
+pc -> 29c code -> 4
+pc -> 29d code -> 35
+pc -> 29e code -> b6
+2
+pc -> 2a1 code -> b2
+pc -> 2a4 code -> 19
+pc -> 2a6 code -> 6
+pc -> 2a7 code -> 35
+pc -> 2a8 code -> b6
+4
+pc -> 2ab code -> b2
+pc -> 2ae code -> 19
+pc -> 2b0 code -> 5
+pc -> 2b1 code -> 35
+pc -> 2b2 code -> b6
+3
+pc -> 2b5 code -> b2
+pc -> 2b8 code -> 19
+pc -> 2ba code -> 7
+pc -> 2bb code -> 35
+pc -> 2bc code -> b6
+5
+pc -> 2bf code -> b2
+pc -> 2c2 code -> 15
+pc -> 2c4 code -> b6
+3
+pc -> 2c7 code -> 19
+pc -> 2c9 code -> 3
+pc -> 2ca code -> 10
+pc -> 2cc code -> 56
+pc -> 2cd code -> b2
+pc -> 2d0 code -> 19
+pc -> 2d2 code -> 3
+pc -> 2d3 code -> 35
+pc -> 2d4 code -> b6
+6
+pc -> 2d7 code -> 19
+pc -> 2d9 code -> 4
+pc -> 2da code -> 10
+pc -> 2dc code -> 56
+pc -> 2dd code -> b2
+pc -> 2e0 code -> 19
+pc -> 2e2 code -> 4
+pc -> 2e3 code -> 35
+pc -> 2e4 code -> b6
+7
+pc -> 2e7 code -> 19
+pc -> 2e9 code -> 5
+pc -> 2ea code -> 10
+pc -> 2ec code -> 56
+pc -> 2ed code -> b2
+pc -> 2f0 code -> 19
+pc -> 2f2 code -> 5
+pc -> 2f3 code -> 35
+pc -> 2f4 code -> b6
+8
+pc -> 2f7 code -> b1
+
+pc -> 0 code -> b1
+
+pc -> 0 code -> b1
+
+missing cafe babe
+
+pc -> 0 code -> 8
+pc -> 1 code -> 3c
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a0
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+5
+pc -> e code -> a7
+pc -> 19 code -> 1b
+pc -> 1a code -> 10
+pc -> 1c code -> a2
+pc -> 1f code -> b2
+pc -> 22 code -> 12
+pc -> 24 code -> b6
+menor que 10
+pc -> 27 code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 48
+pc -> 4 code -> 14
+pc -> 7 code -> 4a
+pc -> 8 code -> b2
+pc -> b code -> 27
+pc -> c code -> 29
+pc -> d code -> 63
+pc -> e code -> b6
+233.110000
+pc -> 11 code -> b2
+pc -> 14 code -> 27
+pc -> 15 code -> 29
+pc -> 16 code -> 67
+pc -> 17 code -> b6
+-36.630000
+pc -> 1a code -> b2
+pc -> 1d code -> 27
+pc -> 1e code -> 29
+pc -> 1f code -> 6b
+pc -> 20 code -> b6
+13249.628800
+pc -> 23 code -> b2
+pc -> 26 code -> 27
+pc -> 27 code -> 29
+pc -> 28 code -> 6f
+pc -> 29 code -> b6
+0.728405
+pc -> 2c code -> b2
+pc -> 2f code -> 27
+pc -> 30 code -> 77
+pc -> 31 code -> b6
+-98.240000
+pc -> 34 code -> b2
+pc -> 37 code -> 29
+pc -> 38 code -> 27
+pc -> 39 code -> 73
+pc -> 3a code -> b6
+36.630000
+pc -> 3d code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 48
+pc -> 4 code -> b2
+pc -> 7 code -> 27
+pc -> 8 code -> 90
+pc -> 9 code -> b6
+100.599998
+pc -> c code -> b2
+pc -> f code -> 27
+pc -> 10 code -> 8e
+pc -> 11 code -> b6
+100
+pc -> 14 code -> b2
+pc -> 17 code -> 27
+pc -> 18 code -> 8f
+pc -> 19 code -> b6
+100
+pc -> 1c code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 48
+pc -> 4 code -> b2
+pc -> 7 code -> 27
+pc -> 8 code -> b6
+5.400000
+pc -> b code -> 14
+pc -> e code -> 4a
+pc -> f code -> b2
+pc -> 12 code -> 29
+pc -> 13 code -> b6
+3.500000
+pc -> 16 code -> 27
+pc -> 17 code -> 29
+pc -> 18 code -> 63
+pc -> 19 code -> 39
+pc -> 1b code -> b2
+pc -> 1e code -> 18
+pc -> 20 code -> b6
+8.900000
+pc -> 23 code -> 27
+pc -> 24 code -> 29
+pc -> 25 code -> 67
+pc -> 26 code -> 39
+pc -> 28 code -> b2
+pc -> 2b code -> 18
+pc -> 2d code -> b6
+1.900000
+pc -> 30 code -> 27
+pc -> 31 code -> 29
+pc -> 32 code -> 6f
+pc -> 33 code -> 39
+pc -> 35 code -> b2
+pc -> 38 code -> 18
+pc -> 3a code -> b6
+1.542857
+pc -> 3d code -> 27
+pc -> 3e code -> 29
+pc -> 3f code -> 6b
+pc -> 40 code -> 39
+pc -> 42 code -> b2
+pc -> 45 code -> 18
+pc -> 47 code -> b6
+18.900000
+pc -> 4a code -> 27
+pc -> 4b code -> 29
+pc -> 4c code -> 73
+pc -> 4d code -> 39
+pc -> 4f code -> b2
+pc -> 52 code -> 18
+pc -> 54 code -> b6
+1.900000
+pc -> 57 code -> 4
+pc -> 58 code -> 36
+pc -> 5a code -> 15
+pc -> 5c code -> 87
+pc -> 5d code -> 39
+pc -> 5f code -> b2
+pc -> 62 code -> 18
+pc -> 64 code -> b6
+1.000000
+pc -> 67 code -> a
+pc -> 68 code -> 37
+pc -> 6a code -> 16
+pc -> 6c code -> 8a
+pc -> 6d code -> 39
+pc -> 6f code -> b2
+pc -> 72 code -> 18
+pc -> 74 code -> b6
+1.000000
+pc -> 77 code -> c
+pc -> 78 code -> 38
+pc -> 7a code -> 17
+pc -> 7c code -> 8d
+pc -> 7d code -> 39
+pc -> 7f code -> b2
+pc -> 82 code -> 18
+pc -> 84 code -> b6
+1.000000
+pc -> 87 code -> 8
+pc -> 88 code -> 36
+pc -> 8a code -> 15
+pc -> 8c code -> 87
+pc -> 8d code -> 39
+pc -> 8f code -> b2
+pc -> 92 code -> 18
+pc -> 94 code -> b6
+5.000000
+pc -> 97 code -> b2
+pc -> 9a code -> 27
+pc -> 9b code -> b8
+pc -> 0 code -> 26
+5.4
+pc -> 1 code -> af
+pc -> 9e code -> b6
+5.400000
+pc -> a1 code -> b1
+
+pc -> 0 code -> f
+pc -> 1 code -> 48
+pc -> 2 code -> 14
+pc -> 5 code -> 4a
+pc -> 6 code -> 29
+pc -> 7 code -> 27
+pc -> 8 code -> 97
+pc -> 9 code -> 9e
+pc -> c code -> b2
+pc -> f code -> 29
+pc -> 10 code -> b6
+2.000000
+pc -> 13 code -> 27
+pc -> 14 code -> 29
+pc -> 15 code -> 98
+pc -> 16 code -> 9c
+pc -> 19 code -> b2
+pc -> 1c code -> 27
+pc -> 1d code -> b6
+1.000000
+pc -> 20 code -> 27
+pc -> 21 code -> 29
+pc -> 22 code -> 97
+pc -> 23 code -> 99
+pc -> 26 code -> b2
+pc -> 29 code -> 3
+pc -> 2a code -> b6
+0
+pc -> 2d code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> b2
+pc -> 6 code -> 12
+pc -> 8 code -> b6
+Serie De Fibonacci: 
+pc -> b code -> 9
+pc -> c code -> 37
+pc -> e code -> a
+pc -> f code -> 37
+pc -> 11 code -> 4
+pc -> 12 code -> 36
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+1
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+1
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+2
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+3
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+5
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+8
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+13
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+21
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+34
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+55
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+89
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 1a code -> b2
+pc -> 1d code -> 16
+pc -> 1f code -> b6
+144
+pc -> 22 code -> 16
+pc -> 24 code -> 41
+pc -> 25 code -> 16
+pc -> 27 code -> 37
+pc -> 29 code -> 20
+pc -> 2a code -> 16
+pc -> 2c code -> 61
+pc -> 2d code -> 37
+pc -> 2f code -> 84
+pc -> 32 code -> a7
+pc -> 14 code -> 15
+pc -> 16 code -> 1b
+pc -> 17 code -> a3
+pc -> 35 code -> b1
+
+pc -> 0 code -> 12
+pc -> 2 code -> 44
+pc -> 3 code -> 12
+pc -> 5 code -> 45
+pc -> 6 code -> b2
+pc -> 9 code -> 23
+pc -> a code -> 24
+pc -> b code -> 62
+pc -> c code -> b6
+120.699997
+pc -> f code -> b2
+pc -> 12 code -> 23
+pc -> 13 code -> 24
+pc -> 14 code -> 66
+pc -> 15 code -> b6
+80.100006
+pc -> 18 code -> b2
+pc -> 1b code -> 23
+pc -> 1c code -> 24
+pc -> 1d code -> 6a
+pc -> 1e code -> b6
+2038.119995
+pc -> 21 code -> b2
+pc -> 24 code -> 23
+pc -> 25 code -> 24
+pc -> 26 code -> 6e
+pc -> 27 code -> b6
+4.945813
+pc -> 2a code -> b2
+pc -> 2d code -> 23
+pc -> 2e code -> 76
+pc -> 2f code -> b6
+-100.400002
+pc -> 32 code -> b2
+pc -> 35 code -> 23
+pc -> 36 code -> 24
+pc -> 37 code -> 72
+pc -> 38 code -> b6
+19.200005
+pc -> 3b code -> b1
+
+pc -> 0 code -> 12
+pc -> 2 code -> 44
+pc -> 3 code -> 14
+pc -> 6 code -> 49
+pc -> 7 code -> b2
+pc -> a code -> 28
+pc -> b code -> b6
+42.420000
+pc -> e code -> b2
+pc -> 11 code -> 23
+pc -> 12 code -> 8d
+pc -> 13 code -> b6
+100.599998
+pc -> 16 code -> b2
+pc -> 19 code -> 23
+pc -> 1a code -> 8b
+pc -> 1b code -> b6
+100
+pc -> 1e code -> b2
+pc -> 21 code -> 23
+pc -> 22 code -> 8c
+pc -> 23 code -> b6
+100
+pc -> 26 code -> b1
+
+pc -> 0 code -> 12
+pc -> 2 code -> 44
+pc -> 3 code -> b2
+pc -> 6 code -> 23
+pc -> 7 code -> b6
+3.140000
+pc -> a code -> 12
+pc -> c code -> 45
+pc -> d code -> b2
+pc -> 10 code -> 24
+pc -> 11 code -> b6
+6.280000
+pc -> 14 code -> 23
+pc -> 15 code -> 24
+pc -> 16 code -> 62
+pc -> 17 code -> 46
+pc -> 18 code -> b2
+pc -> 1b code -> 25
+pc -> 1c code -> b6
+9.420000
+pc -> 1f code -> 23
+pc -> 20 code -> 24
+pc -> 21 code -> 66
+pc -> 22 code -> 38
+pc -> 24 code -> b2
+pc -> 27 code -> 17
+pc -> 29 code -> b6
+-3.140000
+pc -> 2c code -> 23
+pc -> 2d code -> 24
+pc -> 2e code -> 6e
+pc -> 2f code -> 38
+pc -> 31 code -> b2
+pc -> 34 code -> 17
+pc -> 36 code -> b6
+0.500000
+pc -> 39 code -> 23
+pc -> 3a code -> 24
+pc -> 3b code -> 6a
+pc -> 3c code -> 38
+pc -> 3e code -> b2
+pc -> 41 code -> 17
+pc -> 43 code -> b6
+19.719202
+pc -> 46 code -> 4
+pc -> 47 code -> 36
+pc -> 49 code -> 15
+pc -> 4b code -> 86
+pc -> 4c code -> 38
+pc -> 4e code -> b2
+pc -> 51 code -> 17
+pc -> 53 code -> b6
+1.000000
+pc -> 56 code -> a
+pc -> 57 code -> 37
+pc -> 59 code -> 16
+pc -> 5b code -> 89
+pc -> 5c code -> 38
+pc -> 5e code -> b2
+pc -> 61 code -> 17
+pc -> 63 code -> b6
+1.000000
+pc -> 66 code -> f
+pc -> 67 code -> 39
+pc -> 69 code -> 18
+pc -> 6b code -> 90
+pc -> 6c code -> 38
+pc -> 6e code -> b2
+pc -> 71 code -> 17
+pc -> 73 code -> b6
+1.000000
+pc -> 76 code -> b2
+pc -> 79 code -> 23
+pc -> 7a code -> b8
+pc -> 0 code -> 22
+pc -> 1 code -> ae
+pc -> 7d code -> b6
+3.140000
+pc -> 80 code -> b1
+
+pc -> 0 code -> 12
+pc -> 2 code -> 44
+pc -> 3 code -> b
+pc -> 4 code -> 45
+pc -> 5 code -> 12
+pc -> 7 code -> 46
+pc -> 8 code -> b2
+pc -> b code -> 25
+pc -> c code -> b6
+1342512.125000
+pc -> f code -> 24
+pc -> 10 code -> 23
+pc -> 11 code -> 95
+pc -> 12 code -> 9e
+pc -> 15 code -> b2
+pc -> 18 code -> 24
+pc -> 19 code -> b6
+0.000000
+pc -> 1c code -> 24
+pc -> 1d code -> 23
+pc -> 1e code -> 95
+pc -> 1f code -> 9b
+pc -> 22 code -> b2
+pc -> 25 code -> 24
+pc -> 26 code -> b6
+0.000000
+pc -> 29 code -> 23
+pc -> 2a code -> 24
+pc -> 2b code -> 96
+pc -> 2c code -> 9d
+pc -> 2f code -> b2
+pc -> 32 code -> 23
+pc -> 33 code -> b6
+-1.000000
+pc -> 36 code -> 23
+pc -> 37 code -> 24
+pc -> 38 code -> 96
+pc -> 39 code -> 9c
+pc -> 3c code -> b2
+pc -> 3f code -> 23
+pc -> 40 code -> b6
+-1.000000
+pc -> 43 code -> 23
+pc -> 44 code -> 24
+pc -> 45 code -> 95
+pc -> 46 code -> 99
+pc -> 49 code -> b2
+pc -> 4c code -> 12
+pc -> 4e code -> b6
+diferente
+pc -> 51 code -> 23
+pc -> 52 code -> 24
+pc -> 53 code -> 95
+pc -> 54 code -> 9a
+pc -> 5f code -> b1
+
+pc -> 0 code -> 3
+pc -> 1 code -> 3c
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+0
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+1
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+2
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+3
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+4
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 7 code -> b2
+pc -> a code -> 1b
+pc -> b code -> b6
+5
+pc -> e code -> 84
+pc -> 11 code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 8
+pc -> 4 code -> a3
+pc -> 14 code -> b1
+
+pc -> 0 code -> 3
+pc -> 1 code -> 3c
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> d code -> a7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> d code -> a7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> d code -> a7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> d code -> a7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> d code -> a7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> 10 code -> b2
+pc -> 13 code -> 1b
+pc -> 14 code -> b6
+5
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> 10 code -> b2
+pc -> 13 code -> 1b
+pc -> 14 code -> b6
+6
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> 10 code -> b2
+pc -> 13 code -> 1b
+pc -> 14 code -> b6
+7
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> 10 code -> b2
+pc -> 13 code -> 1b
+pc -> 14 code -> b6
+8
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 8 code -> 1b
+pc -> 9 code -> 8
+pc -> a code -> a2
+pc -> 10 code -> b2
+pc -> 13 code -> 1b
+pc -> 14 code -> b6
+9
+pc -> 17 code -> 84
+pc -> 1a code -> a7
+pc -> 2 code -> 1b
+pc -> 3 code -> 10
+pc -> 5 code -> a2
+pc -> 1d code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> e
+pc -> 4 code -> 49
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 16 code -> b2
+pc -> 19 code -> 28
+pc -> 1a code -> b6
+3.597740
+pc -> 1d code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> e
+pc -> 4 code -> 49
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 9 code -> 28
+pc -> a code -> f
+pc -> b code -> 1b
+pc -> c code -> 87
+pc -> d code -> 6f
+pc -> e code -> 63
+pc -> f code -> 49
+pc -> 10 code -> 84
+pc -> 13 code -> a7
+pc -> 5 code -> 1b
+pc -> 6 code -> 9e
+pc -> 16 code -> b2
+pc -> 19 code -> 28
+pc -> 1a code -> b6
+3.597740
+pc -> 1d code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> b2
+pc -> 6 code -> 12
+pc -> 8 code -> b6
+Hello World!
+pc -> b code -> b1
+
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Hello, World
+pc -> 8 code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> b2
+pc -> 6 code -> 12
+pc -> 8 code -> b6
+Hello World!
+pc -> b code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> 10
+pc -> 5 code -> 3d
+pc -> 6 code -> b2
+pc -> 9 code -> 1b
+pc -> a code -> 1c
+pc -> b code -> 60
+pc -> c code -> b6
+130
+pc -> f code -> b2
+pc -> 12 code -> 1b
+pc -> 13 code -> 1c
+pc -> 14 code -> 64
+pc -> 15 code -> b6
+70
+pc -> 18 code -> b2
+pc -> 1b code -> 1b
+pc -> 1c code -> 1c
+pc -> 1d code -> 68
+pc -> 1e code -> b6
+3000
+pc -> 21 code -> b2
+pc -> 24 code -> 1b
+pc -> 25 code -> 1c
+pc -> 26 code -> 6c
+pc -> 27 code -> b6
+3
+pc -> 2a code -> b2
+pc -> 2d code -> 1b
+pc -> 2e code -> 74
+pc -> 2f code -> b6
+-100
+pc -> 32 code -> b2
+pc -> 35 code -> 1b
+pc -> 36 code -> 1c
+pc -> 37 code -> 70
+pc -> 38 code -> b6
+10
+pc -> 3b code -> b2
+pc -> 3e code -> 1b
+pc -> 3f code -> 1c
+pc -> 40 code -> 7e
+pc -> 41 code -> b6
+4
+pc -> 44 code -> b2
+pc -> 47 code -> 1b
+pc -> 48 code -> 5
+pc -> 49 code -> 78
+pc -> 4a code -> b6
+400
+pc -> 4d code -> b2
+pc -> 50 code -> 1b
+pc -> 51 code -> 5
+pc -> 52 code -> 7a
+pc -> 53 code -> b6
+25
+pc -> 56 code -> 10
+pc -> 58 code -> 3c
+pc -> 59 code -> b2
+pc -> 5c code -> 1b
+pc -> 5d code -> 5
+pc -> 5e code -> 7a
+pc -> 5f code -> b6
+-25
+pc -> 62 code -> 12
+pc -> 64 code -> 3c
+pc -> 65 code -> b2
+pc -> 68 code -> 1b
+pc -> 69 code -> b6
+1073741823
+pc -> 6c code -> b1
+
+pc -> 0 code -> 11
+pc -> 3 code -> 3c
+pc -> 4 code -> b2
+pc -> 7 code -> 1b
+pc -> 8 code -> 87
+pc -> 9 code -> b6
+254.000000
+pc -> c code -> b2
+pc -> f code -> 1b
+pc -> 10 code -> 86
+pc -> 11 code -> b6
+254.000000
+pc -> 14 code -> b2
+pc -> 17 code -> 1b
+pc -> 18 code -> 85
+pc -> 19 code -> b6
+254
+pc -> 1c code -> b2
+pc -> 1f code -> 1b
+pc -> 20 code -> 92
+pc -> 21 code -> b6
+þ
+pc -> 24 code -> b2
+pc -> 27 code -> 1b
+pc -> 28 code -> 91
+pc -> 29 code -> b6
+-2
+pc -> 2c code -> b2
+pc -> 2f code -> 1b
+pc -> 30 code -> 93
+pc -> 31 code -> b6
+254
+pc -> 34 code -> 1b
+pc -> 35 code -> 74
+pc -> 36 code -> 3c
+pc -> 37 code -> b2
+pc -> 3a code -> 1b
+pc -> 3b code -> 87
+pc -> 3c code -> b6
+-254.000000
+pc -> 3f code -> b2
+pc -> 42 code -> 1b
+pc -> 43 code -> 86
+pc -> 44 code -> b6
+-254.000000
+pc -> 47 code -> b2
+pc -> 4a code -> 1b
+pc -> 4b code -> 85
+pc -> 4c code -> b6
+-254
+pc -> 4f code -> b2
+pc -> 52 code -> 1b
+pc -> 53 code -> 92
+pc -> 54 code -> b6
+
+pc -> 57 code -> b2
+pc -> 5a code -> 1b
+pc -> 5b code -> 91
+pc -> 5c code -> b6
+2
+pc -> 5f code -> b2
+pc -> 62 code -> 1b
+pc -> 63 code -> 93
+pc -> 64 code -> b6
+-254
+pc -> 67 code -> b1
+
+pc -> 0 code -> 8
+pc -> 1 code -> 3c
+pc -> 2 code -> b2
+pc -> 5 code -> 1b
+pc -> 6 code -> b6
+5
+pc -> 9 code -> 6
+pc -> a code -> 3d
+pc -> b code -> b2
+pc -> e code -> 1c
+pc -> f code -> b6
+3
+pc -> 12 code -> 1b
+pc -> 13 code -> 1c
+pc -> 14 code -> 60
+pc -> 15 code -> 3e
+pc -> 16 code -> b2
+pc -> 19 code -> 1d
+pc -> 1a code -> b6
+8
+pc -> 1d code -> 1b
+pc -> 1e code -> 1c
+pc -> 1f code -> 64
+pc -> 20 code -> 36
+pc -> 22 code -> b2
+pc -> 25 code -> 15
+pc -> 27 code -> b6
+2
+pc -> 2a code -> 1b
+pc -> 2b code -> 1c
+pc -> 2c code -> 6c
+pc -> 2d code -> 36
+pc -> 2f code -> b2
+pc -> 32 code -> 15
+pc -> 34 code -> b6
+1
+pc -> 37 code -> 1b
+pc -> 38 code -> 1c
+pc -> 39 code -> 68
+pc -> 3a code -> 36
+pc -> 3c code -> b2
+pc -> 3f code -> 15
+pc -> 41 code -> b6
+15
+pc -> 44 code -> 1b
+pc -> 45 code -> 1c
+pc -> 46 code -> 70
+pc -> 47 code -> 36
+pc -> 49 code -> b2
+pc -> 4c code -> 15
+pc -> 4e code -> b6
+2
+pc -> 51 code -> 14
+pc -> 54 code -> 39
+pc -> 56 code -> 18
+pc -> 58 code -> 8e
+pc -> 59 code -> 36
+pc -> 5b code -> b2
+pc -> 5e code -> 15
+pc -> 60 code -> b6
+2
+pc -> 63 code -> a
+pc -> 64 code -> 37
+pc -> 66 code -> 16
+pc -> 68 code -> 88
+pc -> 69 code -> 36
+pc -> 6b code -> b2
+pc -> 6e code -> 15
+pc -> 70 code -> b6
+1
+pc -> 73 code -> c
+pc -> 74 code -> 38
+pc -> 76 code -> 17
+pc -> 78 code -> 8b
+pc -> 79 code -> 36
+pc -> 7b code -> b2
+pc -> 7e code -> 15
+pc -> 80 code -> b6
+1
+pc -> 83 code -> 8
+pc -> 84 code -> 36
+pc -> 86 code -> 15
+pc -> 88 code -> 36
+pc -> 8a code -> b2
+pc -> 8d code -> 15
+pc -> 8f code -> b6
+5
+pc -> 92 code -> b2
+pc -> 95 code -> 1b
+pc -> 96 code -> b8
+pc -> 0 code -> 1a
+pc -> 1 code -> ac
+pc -> 99 code -> b6
+5
+pc -> 9c code -> b1
+
+pc -> 0 code -> 5
+pc -> 1 code -> 3c
+pc -> 2 code -> 6
+pc -> 3 code -> 3d
+pc -> 4 code -> 1b
+pc -> 5 code -> 3
+pc -> 6 code -> 80
+pc -> 7 code -> 3e
+pc -> 8 code -> 1b
+pc -> 9 code -> 3
+pc -> a code -> 7e
+pc -> b code -> 36
+pc -> d code -> b2
+pc -> 10 code -> 1d
+pc -> 11 code -> b6
+2
+pc -> 14 code -> b2
+pc -> 17 code -> 15
+pc -> 19 code -> b6
+0
+pc -> 1c code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 40
+pc -> 4 code -> 14
+pc -> 7 code -> 42
+pc -> 8 code -> b2
+pc -> b code -> 1f
+pc -> c code -> 21
+pc -> d code -> 61
+pc -> e code -> b6
+120
+pc -> 11 code -> b2
+pc -> 14 code -> 1f
+pc -> 15 code -> 21
+pc -> 16 code -> 65
+pc -> 17 code -> b6
+80
+pc -> 1a code -> b2
+pc -> 1d code -> 1f
+pc -> 1e code -> 21
+pc -> 1f code -> 69
+pc -> 20 code -> b6
+2000
+pc -> 23 code -> b2
+pc -> 26 code -> 1f
+pc -> 27 code -> 21
+pc -> 28 code -> 6d
+pc -> 29 code -> b6
+5
+pc -> 2c code -> b2
+pc -> 2f code -> 1f
+pc -> 30 code -> 75
+pc -> 31 code -> b6
+-100
+pc -> 34 code -> b2
+pc -> 37 code -> 1f
+pc -> 38 code -> 21
+pc -> 39 code -> 71
+pc -> 3a code -> b6
+0
+pc -> 3d code -> b2
+pc -> 40 code -> 1f
+pc -> 41 code -> 21
+pc -> 42 code -> 7f
+pc -> 43 code -> b6
+4
+pc -> 46 code -> b2
+pc -> 49 code -> 1f
+pc -> 4a code -> 5
+pc -> 4b code -> 79
+pc -> 4c code -> b6
+400
+pc -> 4f code -> b2
+pc -> 52 code -> 1f
+pc -> 53 code -> 5
+pc -> 54 code -> 7b
+pc -> 55 code -> b6
+25
+pc -> 58 code -> 14
+pc -> 5b code -> 40
+pc -> 5c code -> b2
+pc -> 5f code -> 1f
+pc -> 60 code -> b6
+1073741823
+pc -> 63 code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 40
+pc -> 4 code -> 1f
+pc -> 5 code -> 88
+pc -> 6 code -> 93
+pc -> 7 code -> 3e
+pc -> 8 code -> 1f
+pc -> 9 code -> 89
+pc -> a code -> 38
+pc -> c code -> 1f
+pc -> d code -> 88
+pc -> e code -> 36
+pc -> 10 code -> b2
+pc -> 13 code -> 1f
+pc -> 14 code -> b6
+-268435457
+pc -> 17 code -> b2
+pc -> 1a code -> 1d
+pc -> 1b code -> b6
+-1
+pc -> 1e code -> b2
+pc -> 21 code -> 17
+pc -> 23 code -> b6
+-268435456.000000
+pc -> 26 code -> b2
+pc -> 29 code -> 15
+pc -> 2b code -> b6
+-268435457
+pc -> 2e code -> 1f
+pc -> 2f code -> 75
+pc -> 30 code -> 40
+pc -> 31 code -> 1f
+pc -> 32 code -> 89
+pc -> 33 code -> 38
+pc -> 35 code -> 1f
+pc -> 36 code -> 88
+pc -> 37 code -> 36
+pc -> 39 code -> b2
+pc -> 3c code -> 1f
+pc -> 3d code -> b6
+268435457
+pc -> 40 code -> b2
+pc -> 43 code -> 1d
+pc -> 44 code -> b6
+-1
+pc -> 47 code -> b2
+pc -> 4a code -> 17
+pc -> 4c code -> b6
+268435456.000000
+pc -> 4f code -> b2
+pc -> 52 code -> 15
+pc -> 54 code -> b6
+268435457
+pc -> 57 code -> b1
+
+pc -> 0 code -> 14
+pc -> 3 code -> 40
+pc -> 4 code -> b2
+pc -> 7 code -> 1f
+pc -> 8 code -> b6
+5
+pc -> b code -> 14
+pc -> e code -> 42
+pc -> f code -> 1f
+pc -> 10 code -> 21
+pc -> 11 code -> 61
+pc -> 12 code -> 37
+pc -> 14 code -> b2
+pc -> 17 code -> 16
+pc -> 19 code -> b6
+8
+pc -> 1c code -> 1f
+pc -> 1d code -> 21
+pc -> 1e code -> 65
+pc -> 1f code -> 37
+pc -> 21 code -> b2
+pc -> 24 code -> 16
+pc -> 26 code -> b6
+2
+pc -> 29 code -> 1f
+pc -> 2a code -> 21
+pc -> 2b code -> 6d
+pc -> 2c code -> 37
+pc -> 2e code -> b2
+pc -> 31 code -> 16
+pc -> 33 code -> b6
+1
+pc -> 36 code -> 1f
+pc -> 37 code -> 21
+pc -> 38 code -> 69
+pc -> 39 code -> 37
+pc -> 3b code -> b2
+pc -> 3e code -> 16
+pc -> 40 code -> b6
+15
+pc -> 43 code -> 1f
+pc -> 44 code -> 21
+pc -> 45 code -> 71
+pc -> 46 code -> 37
+pc -> 48 code -> b2
+pc -> 4b code -> 16
+pc -> 4d code -> b6
+2
+pc -> 50 code -> 10
+pc -> 52 code -> 36
+pc -> 54 code -> 15
+pc -> 56 code -> 85
+pc -> 57 code -> 37
+pc -> 59 code -> b2
+pc -> 5c code -> 16
+pc -> 5e code -> b6
+6
+pc -> 61 code -> 12
+pc -> 63 code -> 38
+pc -> 65 code -> 17
+pc -> 67 code -> 8c
+pc -> 68 code -> 37
+pc -> 6a code -> b2
+pc -> 6d code -> 16
+pc -> 6f code -> b6
+8
+pc -> 72 code -> 14
+pc -> 75 code -> 39
+pc -> 77 code -> 18
+pc -> 79 code -> 8f
+pc -> 7a code -> 37
+pc -> 7c code -> b2
+pc -> 7f code -> 16
+pc -> 81 code -> b6
+5
+pc -> 84 code -> 8
+pc -> 85 code -> 36
+pc -> 87 code -> 15
+pc -> 89 code -> 85
+pc -> 8a code -> 37
+pc -> 8c code -> b2
+pc -> 8f code -> 16
+pc -> 91 code -> b6
+5
+pc -> 94 code -> b2
+pc -> 97 code -> 1f
+pc -> 98 code -> b8
+pc -> 0 code -> 1e
+pc -> 1 code -> ad
+pc -> 9b code -> b6
+5
+pc -> 9e code -> b1
+
+pc -> 0 code -> 6
+pc -> 1 code -> bc
+pc -> 3 code -> 59
+pc -> 4 code -> 3
+pc -> 5 code -> 14
+pc -> 8 code -> 50
+pc -> 9 code -> 59
+pc -> a code -> 4
+pc -> b code -> 14
+pc -> e code -> 50
+pc -> f code -> 59
+pc -> 10 code -> 5
+pc -> 11 code -> 14
+pc -> 14 code -> 50
+pc -> 15 code -> 4c
+pc -> 16 code -> 2b
+pc -> 17 code -> 5
+pc -> 18 code -> 2f
+pc -> 19 code -> 41
+pc -> 1a code -> b2
+pc -> 1d code -> 20
+pc -> 1e code -> b6
+30
+pc -> 21 code -> 14
+pc -> 24 code -> 37
+pc -> 26 code -> b2
+pc -> 29 code -> 16
+pc -> 2b code -> b6
+1000000
+pc -> 2e code -> 9
+pc -> 2f code -> 37
+pc -> 31 code -> b2
+pc -> 34 code -> 16
+pc -> 36 code -> b6
+0
+pc -> 39 code -> a
+pc -> 3a code -> 37
+pc -> 3c code -> b2
+pc -> 3f code -> 16
+pc -> 41 code -> b6
+1
+pc -> 44 code -> b1
+
+pc -> 0 code -> 9
+pc -> 1 code -> 40
+pc -> 2 code -> a
+pc -> 3 code -> 42
+pc -> 4 code -> 1f
+pc -> 5 code -> 21
+pc -> 6 code -> 7f
+pc -> 7 code -> 37
+pc -> 9 code -> b2
+pc -> c code -> 16
+pc -> e code -> b6
+0
+pc -> 11 code -> 1f
+pc -> 12 code -> 21
+pc -> 13 code -> 81
+pc -> 14 code -> 37
+pc -> 16 code -> b2
+pc -> 19 code -> 16
+pc -> 1b code -> b6
+1
+pc -> 1e code -> 1f
+pc -> 1f code -> 21
+pc -> 20 code -> 83
+pc -> 21 code -> 37
+pc -> 23 code -> b2
+pc -> 26 code -> 16
+pc -> 28 code -> b6
+1
+pc -> 2b code -> 1f
+pc -> 2c code -> 5
+pc -> 2d code -> 79
+pc -> 2e code -> 37
+pc -> 30 code -> 1f
+pc -> 31 code -> 5
+pc -> 32 code -> 7b
+pc -> 33 code -> 37
+pc -> 35 code -> b2
+pc -> 38 code -> 16
+pc -> 3a code -> b6
+0
+pc -> 3d code -> 21
+pc -> 3e code -> 1f
+pc -> 3f code -> 94
+pc -> 40 code -> 9e
+pc -> 43 code -> b2
+pc -> 46 code -> 21
+pc -> 47 code -> b6
+1
+pc -> 4a code -> 1f
+pc -> 4b code -> 21
+pc -> 4c code -> 94
+pc -> 4d code -> 9c
+pc -> 50 code -> b2
+pc -> 53 code -> 1f
+pc -> 54 code -> b6
+0
+pc -> 57 code -> 1f
+pc -> 58 code -> 21
+pc -> 59 code -> 94
+pc -> 5a code -> 99
+pc -> 5d code -> b2
+pc -> 60 code -> 3
+pc -> 61 code -> b6
+0
+pc -> 64 code -> b1
+
+pc -> 0 code -> b1
+
+pc -> 0 code -> b1
+
+pc -> 0 code -> b2
+pc -> 3 code -> 5
+pc -> 4 code -> 6
+pc -> 5 code -> b8
+pc -> 0 code -> 1a
+pc -> 1 code -> 1b
+pc -> 2 code -> 60
+pc -> 3 code -> ac
+pc -> 8 code -> b6
+5
+pc -> b code -> b2
+pc -> e code -> 14
+pc -> 11 code -> 14
+pc -> 14 code -> b8
+pc -> 0 code -> 26
+35.35
+pc -> 1 code -> 28
+pc -> 2 code -> 63
+pc -> 3 code -> af
+pc -> 17 code -> b6
+65.700000
+pc -> 1a code -> b2
+pc -> 1d code -> 14
+pc -> 20 code -> 14
+pc -> 23 code -> b8
+pc -> 0 code -> 1e
+pc -> 1 code -> 20
+pc -> 2 code -> 65
+pc -> 3 code -> ad
+pc -> 26 code -> b6
+-400000000
+pc -> 29 code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> 10
+pc -> 5 code -> 3d
+pc -> 6 code -> b2
+pc -> 9 code -> 12
+pc -> b code -> b6
+Hello, World!!!
+pc -> e code -> 1b
+pc -> f code -> 1c
+pc -> 10 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Segunda funcao
+pc -> 8 code -> b1
+pc -> 13 code -> 1b
+pc -> 14 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Primeira funcao
+pc -> 8 code -> b1
+pc -> 17 code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> 10
+pc -> 5 code -> 3d
+pc -> 6 code -> b2
+pc -> 9 code -> 12
+pc -> b code -> b6
+Hello, World!!!
+pc -> e code -> 1b
+pc -> f code -> 1c
+pc -> 10 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Segunda funcao
+pc -> 8 code -> b1
+pc -> 13 code -> 1b
+pc -> 14 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Primeira funcao
+pc -> 8 code -> b1
+pc -> 17 code -> b1
+
+pc -> 0 code -> 12
+pc -> 2 code -> 4c
+pc -> 3 code -> b2
+pc -> 6 code -> 2b
+pc -> 7 code -> b6
+OLAR, TESTANDO PRINT
+pc -> a code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> 1b
+pc -> 4 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 1a
+pc -> 4 code -> b6
+10
+pc -> 7 code -> 84
+pc -> a code -> 1a
+pc -> b code -> 10
+pc -> d code -> a2
+pc -> 10 code -> 1a
+pc -> 11 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 1a
+pc -> 4 code -> b6
+11
+pc -> 7 code -> 84
+pc -> a code -> 1a
+pc -> b code -> 10
+pc -> d code -> a2
+pc -> 10 code -> 1a
+pc -> 11 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 1a
+pc -> 4 code -> b6
+12
+pc -> 7 code -> 84
+pc -> a code -> 1a
+pc -> b code -> 10
+pc -> d code -> a2
+pc -> 10 code -> 1a
+pc -> 11 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 1a
+pc -> 4 code -> b6
+13
+pc -> 7 code -> 84
+pc -> a code -> 1a
+pc -> b code -> 10
+pc -> d code -> a2
+pc -> 10 code -> 1a
+pc -> 11 code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 1a
+pc -> 4 code -> b6
+14
+pc -> 7 code -> 84
+pc -> a code -> 1a
+pc -> b code -> 10
+pc -> d code -> a2
+pc -> 14 code -> b1
+pc -> 14 code -> b1
+pc -> 14 code -> b1
+pc -> 14 code -> b1
+pc -> 14 code -> b1
+pc -> 7 code -> b1
+
+missing cafe babe
+
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+Magic Number
+pc -> 8 code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> 10
+pc -> 5 code -> 3d
+pc -> 6 code -> b2
+pc -> 9 code -> 1b
+pc -> a code -> 1c
+pc -> b code -> 60
+pc -> c code -> b6
+120
+pc -> f code -> b2
+pc -> 12 code -> 1b
+pc -> 13 code -> 1c
+pc -> 14 code -> 64
+pc -> 15 code -> b6
+80
+pc -> 18 code -> b2
+pc -> 1b code -> 1b
+pc -> 1c code -> 1c
+pc -> 1d code -> 68
+pc -> 1e code -> b6
+2000
+pc -> 21 code -> b2
+pc -> 24 code -> 1b
+pc -> 25 code -> 1c
+pc -> 26 code -> 6c
+pc -> 27 code -> b6
+5
+pc -> 2a code -> b2
+pc -> 2d code -> 1b
+pc -> 2e code -> 74
+pc -> 2f code -> b6
+-100
+pc -> 32 code -> b2
+pc -> 35 code -> 1b
+pc -> 36 code -> 1c
+pc -> 37 code -> 70
+pc -> 38 code -> b6
+0
+pc -> 3b code -> b2
+pc -> 3e code -> 1b
+pc -> 3f code -> 1c
+pc -> 40 code -> 7e
+pc -> 41 code -> b6
+4
+pc -> 44 code -> b2
+pc -> 47 code -> 1b
+pc -> 48 code -> 5
+pc -> 49 code -> 78
+pc -> 4a code -> b6
+400
+pc -> 4d code -> b2
+pc -> 50 code -> 1b
+pc -> 51 code -> 5
+pc -> 52 code -> 7a
+pc -> 53 code -> b6
+25
+pc -> 56 code -> b1
+
+pc -> 0 code -> 11
+pc -> 3 code -> 3c
+pc -> 4 code -> 1b
+pc -> 5 code -> 87
+pc -> 6 code -> 49
+pc -> 7 code -> 1b
+pc -> 8 code -> 86
+pc -> 9 code -> 38
+pc -> b code -> 1b
+pc -> c code -> 36
+pc -> e code -> b2
+pc -> 11 code -> 1b
+pc -> 12 code -> b6
+255
+pc -> 15 code -> b2
+pc -> 18 code -> 28
+pc -> 19 code -> b6
+255.000000
+pc -> 1c code -> b2
+pc -> 1f code -> 17
+pc -> 21 code -> b6
+255.000000
+pc -> 24 code -> b2
+pc -> 27 code -> 15
+pc -> 29 code -> b6
+255
+pc -> 2c code -> 1b
+pc -> 2d code -> 87
+pc -> 2e code -> 49
+pc -> 2f code -> 1b
+pc -> 30 code -> 86
+pc -> 31 code -> 38
+pc -> 33 code -> 1b
+pc -> 34 code -> 36
+pc -> 36 code -> b2
+pc -> 39 code -> 1b
+pc -> 3a code -> b6
+255
+pc -> 3d code -> b2
+pc -> 40 code -> 28
+pc -> 41 code -> b6
+255.000000
+pc -> 44 code -> b2
+pc -> 47 code -> 17
+pc -> 49 code -> b6
+255.000000
+pc -> 4c code -> b2
+pc -> 4f code -> 15
+pc -> 51 code -> b6
+255
+pc -> 54 code -> b1
+
+pc -> 0 code -> 8
+pc -> 1 code -> 3c
+pc -> 2 code -> b2
+pc -> 5 code -> 1b
+pc -> 6 code -> b6
+5
+pc -> 9 code -> 6
+pc -> a code -> 3d
+pc -> b code -> b2
+pc -> e code -> 1c
+pc -> f code -> b6
+3
+pc -> 12 code -> 1b
+pc -> 13 code -> 1c
+pc -> 14 code -> 60
+pc -> 15 code -> 93
+pc -> 16 code -> 3e
+pc -> 17 code -> b2
+pc -> 1a code -> 1d
+pc -> 1b code -> b6
+8
+pc -> 1e code -> 1b
+pc -> 1f code -> 1c
+pc -> 20 code -> 64
+pc -> 21 code -> 93
+pc -> 22 code -> 36
+pc -> 24 code -> b2
+pc -> 27 code -> 15
+pc -> 29 code -> b6
+2
+pc -> 2c code -> 1b
+pc -> 2d code -> 1c
+pc -> 2e code -> 6c
+pc -> 2f code -> 93
+pc -> 30 code -> 36
+pc -> 32 code -> b2
+pc -> 35 code -> 15
+pc -> 37 code -> b6
+1
+pc -> 3a code -> 1b
+pc -> 3b code -> 1c
+pc -> 3c code -> 68
+pc -> 3d code -> 93
+pc -> 3e code -> 36
+pc -> 40 code -> b2
+pc -> 43 code -> 15
+pc -> 45 code -> b6
+15
+pc -> 48 code -> 1b
+pc -> 49 code -> 1c
+pc -> 4a code -> 70
+pc -> 4b code -> 93
+pc -> 4c code -> 36
+pc -> 4e code -> b2
+pc -> 51 code -> 15
+pc -> 53 code -> b6
+2
+pc -> 56 code -> 4
+pc -> 57 code -> 36
+pc -> 59 code -> 15
+pc -> 5b code -> 93
+pc -> 5c code -> 36
+pc -> 5e code -> b2
+pc -> 61 code -> 15
+pc -> 63 code -> b6
+1
+pc -> 66 code -> a
+pc -> 67 code -> 37
+pc -> 69 code -> 16
+pc -> 6b code -> 88
+pc -> 6c code -> 93
+pc -> 6d code -> 36
+pc -> 6f code -> b2
+pc -> 72 code -> 15
+pc -> 74 code -> b6
+1
+pc -> 77 code -> c
+pc -> 78 code -> 38
+pc -> 7a code -> 17
+pc -> 7c code -> 8b
+pc -> 7d code -> 93
+pc -> 7e code -> 36
+pc -> 80 code -> b2
+pc -> 83 code -> 15
+pc -> 85 code -> b6
+1
+pc -> 88 code -> 14
+pc -> 8b code -> 39
+pc -> 8d code -> 18
+pc -> 8f code -> 8e
+pc -> 90 code -> 93
+pc -> 91 code -> 36
+pc -> 93 code -> b2
+pc -> 96 code -> 15
+pc -> 98 code -> b6
+5
+pc -> 9b code -> b2
+pc -> 9e code -> 1b
+pc -> 9f code -> b8
+pc -> 0 code -> 1a
+pc -> 1 code -> ac
+pc -> a2 code -> b6
+5
+pc -> a5 code -> b1
+
+pc -> 0 code -> 6
+pc -> 1 code -> bc
+pc -> 3 code -> 59
+pc -> 4 code -> 3
+pc -> 5 code -> 10
+pc -> 7 code -> 56
+pc -> 8 code -> 59
+pc -> 9 code -> 4
+pc -> a code -> 10
+pc -> c code -> 56
+pc -> d code -> 59
+pc -> e code -> 5
+pc -> f code -> 10
+pc -> 11 code -> 56
+pc -> 12 code -> 4c
+pc -> 13 code -> 2b
+pc -> 14 code -> 5
+pc -> 15 code -> 35
+pc -> 16 code -> 3d
+pc -> 17 code -> b2
+pc -> 1a code -> 1c
+pc -> 1b code -> b6
+30
+pc -> 1e code -> 10
+pc -> 20 code -> 3e
+pc -> 21 code -> b2
+pc -> 24 code -> 1d
+pc -> 25 code -> b6
+100
+pc -> 28 code -> 3
+pc -> 29 code -> 36
+pc -> 2b code -> b2
+pc -> 2e code -> 15
+pc -> 30 code -> b6
+0
+pc -> 33 code -> 4
+pc -> 34 code -> 36
+pc -> 36 code -> b2
+pc -> 39 code -> 15
+pc -> 3b code -> b6
+1
+pc -> 3e code -> b1
+
+pc -> 0 code -> b1
+
+pc -> 0 code -> 10
+pc -> 2 code -> 3c
+pc -> 3 code -> b2
+pc -> 6 code -> 1b
+pc -> 7 code -> b6
+10
+pc -> a code -> 10
+pc -> c code -> 3d
+pc -> d code -> b2
+pc -> 10 code -> 1c
+pc -> 11 code -> b6
+15
+pc -> 14 code -> 1b
+pc -> 15 code -> 1c
+pc -> 16 code -> 60
+pc -> 17 code -> 3e
+pc -> 18 code -> b2
+pc -> 1b code -> 1d
+pc -> 1c code -> b6
+25
+pc -> 1f code -> 1c
+pc -> 20 code -> 1b
+pc -> 21 code -> 64
+pc -> 22 code -> 5
+pc -> 23 code -> 60
+pc -> 24 code -> 36
+pc -> 26 code -> b2
+pc -> 29 code -> 15
+pc -> 2b code -> b6
+7
+pc -> 2e code -> b8
+pc -> 0 code -> b2
+pc -> 3 code -> 12
+pc -> 5 code -> b6
+foo
+pc -> 8 code -> b1
+pc -> 31 code -> b1
+
+
+INTEIRO
+1
+2
+4
+3
+5
+3
+6
+7
+8
+
+LONG
+1
+2
+4
+3
+5
+3
+6
+7
+8
+
+FLOAT
+1.000000
+2.000000
+4.000000
+3.000000
+5.000000
+3.000000
+6.000000
+7.000000
+8.000000
+
+DOUBLE
+1.000000
+2.000000
+4.000000
+3.000000
+5.000000
+3.000000
+6.000000
+7.000000
+8.000000
+
+SHORT
+1
+2
+4
+3
+5
+3
+6
+7
+8
+
+
+
+missing cafe babe
+
+5
+menor que 10
+
+233.110000
+-36.630000
+13249.628800
+0.728405
+-98.240000
+36.630000
+
+100.599998
+100
+100
+
+5.400000
+3.500000
+8.900000
+1.900000
+1.542857
+18.900000
+1.900000
+1.000000
+1.000000
+1.000000
+5.000000
+5.4
+5.400000
+
+2.000000
+1.000000
+0
+
+Serie De Fibonacci: 
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
+89
+144
+
+120.699997
+80.100006
+2038.119995
+4.945813
+-100.400002
+19.200005
+
+42.420000
+100.599998
+100
+100
+
+3.140000
+6.280000
+9.420000
+-3.140000
+0.500000
+19.719202
+1.000000
+1.000000
+1.000000
+3.140000
+
+1342512.125000
+0.000000
+0.000000
+-1.000000
+-1.000000
+diferente
+
+0
+1
+2
+3
+4
+5
+
+5
+6
+7
+8
+9
+
+3.597740
+
+3.597740
+
+Hello World!
+
+Hello, World
+
+Hello World!
+
+130
+70
+3000
+3
+-100
+10
+4
+400
+25
+-25
+1073741823
+
+254.000000
+254.000000
+254
+þ
+-2
+254
+-254.000000
+-254.000000
+-254
+
+2
+-254
+
+5
+3
+8
+2
+1
+15
+2
+2
+1
+1
+5
+5
+
+2
+0
+
+120
+80
+2000
+5
+-100
+0
+4
+400
+25
+1073741823
+
+-268435457
+-1
+-268435456.000000
+-268435457
+268435457
+-1
+268435456.000000
+268435457
+
+5
+8
+2
+1
+15
+2
+6
+8
+5
+5
+5
+
+30
+1000000
+0
+1
+
+0
+1
+1
+0
+1
+0
+0
+
+
+
+5
+35.35
+65.700000
+-400000000
+
+Hello, World!!!
+Segunda funcao
+Primeira funcao
+
+Hello, World!!!
+Segunda funcao
+Primeira funcao
+
+OLAR, TESTANDO PRINT
+
+10
+11
+12
+13
+14
+
+missing cafe babe
+
+Magic Number
+
+120
+80
+2000
+5
+-100
+0
+4
+400
+25
+
+255
+255.000000
+255.000000
+255
+255
+255.000000
+255.000000
+255
+
+5
+3
+8
+2
+1
+15
+2
+1
+1
+1
+5
+5
+
+30
+100
+0
+1
+
+
+10
+15
+25
+7
+foo
+

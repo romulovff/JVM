@@ -1,0 +1,33 @@
+multianewarray nao implementado
+new_instruction nao implementado
+tableswitch nao implementado
+new_instruction nao implementado
+new_instruction nao implementado
+new_instruction nao implementado
+new_instruction nao implementado
+new_instruction nao implementado
+lookupswitch nao implementado
+new_instruction nao implementado
+new_instruction nao implementado
+new_instruction nao implementado
+new_instruction nao implementado
+multianewarray nao implementado
+new_instruction nao implementado
+new_instruction nao implementado
+new_instruction nao implementado
+putstatic nao implementado
+getstatic nao implementado totalmente
+OLAR, TESTANDO STRING
+new_instruction nao implementado
+new_instruction nao implementado
+tableswitch nao implementado
+putstatic nao implementado
+putstatic nao implementado
+putstatic nao implementado
+new_instruction nao implementado
+multianewarray nao implementado
+getstatic nao implementado totalmente
+new_instruction nao implementado
+instrucao dup2 nao implementada
+instrucao dup2 nao implementada
+instrucao dup2 nao implementada

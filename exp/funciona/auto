@@ -1,0 +1,14 @@
+#!/bin/bash
+
+for element in *
+do
+	if  [ $element != "auto" ] && [ $element != "resJava.txt" ] && [ $element != "resMeu.txt" ]
+	then
+		../../bin/main $element -i >> resMeu.txt
+		arq=$(ls $element | awk -F'.' '{ print $1 }')
+		java $arq >> resJava.txt
+		echo "" >> resJava.txt
+		echo "" >> resMeu.txt
+	fi
+done
+
